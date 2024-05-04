@@ -8,6 +8,7 @@ redo-ifchange \
   property.json \
   torn.json \
   user.json \
+  torn/all \
 ;
 
 

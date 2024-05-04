@@ -19,13 +19,13 @@
           "name": "Crow bar",
           "type": "Melee",
           "price": 400,
-          "in_stock": 541
+          "in_stock": 540
         },
         "12": {
           "name": "Glock 18",
           "type": "Secondary",
           "price": 400,
-          "in_stock": 137
+          "in_stock": 136
         },
         "13": {
           "name": "Raven MP25",
@@ -37,13 +37,13 @@
           "name": "Leather Gloves",
           "type": "Defensive",
           "price": 750,
-          "in_stock": 11
+          "in_stock": 10
         },
         "392": {
           "name": "Pepper Spray",
           "type": "Temporary",
           "price": 800,
-          "in_stock": 400
+          "in_stock": 390
         },
         "14": {
           "name": "Ruger 22/45",
@@ -61,7 +61,7 @@
           "name": "Leather Pants",
           "type": "Defensive",
           "price": 1100,
-          "in_stock": 143
+          "in_stock": 142
         },
         "647": {
           "name": "Leather Helmet",
@@ -103,13 +103,13 @@
           "name": "Leather Vest",
           "type": "Defensive",
           "price": 2500,
-          "in_stock": 635
+          "in_stock": 634
         },
         "16": {
           "name": "USP",
           "type": "Secondary",
           "price": 2750,
-          "in_stock": 165
+          "in_stock": 164
         },
         "176": {
           "name": "Chain mail",
@@ -206,17 +206,11 @@
     "101": {
       "name": "Sally's Sweet Shop",
       "inventory": {
-        "310": {
-          "name": "Lollipop",
-          "type": "Candy",
-          "price": 25,
-          "in_stock": 200
-        },
         "210": {
           "name": "Chocolate Kiss",
           "type": "Candy",
           "price": 150,
-          "in_stock": 1000
+          "in_stock": 900
         }
       }
     },
@@ -227,7 +221,7 @@
           "name": "Bandana",
           "type": "Clothing",
           "price": 500,
-          "in_stock": 763
+          "in_stock": 762
         }
       }
     },
@@ -244,7 +238,7 @@
           "name": "Bottle of Beer",
           "type": "Alcohol",
           "price": 10,
-          "in_stock": 4400
+          "in_stock": 1130
         },
         "403": {
           "name": "Box of Tissues",
@@ -256,13 +250,13 @@
           "name": "Sheep Plushie",
           "type": "Plushie",
           "price": 25,
-          "in_stock": 2392
+          "in_stock": 2121
         },
         "187": {
           "name": "Teddy Bear",
           "type": "Plushie",
           "price": 30,
-          "in_stock": 790
+          "in_stock": 199
         },
         "560": {
           "name": "Fruitcake",
@@ -280,7 +274,7 @@
           "name": "Kitten Plushie",
           "type": "Plushie",
           "price": 50,
-          "in_stock": 2390
+          "in_stock": 1970
         },
         "172": {
           "name": "Gasoline",
@@ -310,7 +304,7 @@
           "name": "Bunch of Black Roses",
           "type": "Flower",
           "price": 500,
-          "in_stock": 899
+          "in_stock": 699
         }
       }
     },
@@ -356,7 +350,7 @@
           "name": "Blank DVDs : 250",
           "type": "Electronic",
           "price": 80,
-          "in_stock": 1000
+          "in_stock": 800
         },
         "1123": {
           "name": "Spy Camera",
@@ -527,7 +521,7 @@
           "name": "Empty Blood Bag",
           "type": "Medical",
           "price": 15000,
-          "in_stock": 1000
+          "in_stock": 485
         },
         "66": {
           "name": "Morphine",
@@ -600,19 +594,19 @@
           "name": "Spray Paint : Black",
           "type": "Other",
           "price": 10,
-          "in_stock": 990
+          "in_stock": 940
         },
         "857": {
           "name": "Spray Paint : Red",
           "type": "Other",
           "price": 10,
-          "in_stock": 147
+          "in_stock": 127
         },
         "863": {
           "name": "Spray Paint : Orange",
           "type": "Other",
           "price": 10,
-          "in_stock": 14
+          "in_stock": 4
         },
         "1318": {
           "name": "Glue",
@@ -624,13 +618,13 @@
           "name": "Adhesive Plastic",
           "type": "Other",
           "price": 25,
-          "in_stock": 1949
+          "in_stock": 1899
         },
         "1322": {
           "name": "Cardstock",
           "type": "Other",
           "price": 30,
-          "in_stock": 7565
+          "in_stock": 7515
         },
         "1290": {
           "name": "Toner",

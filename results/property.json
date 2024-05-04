@@ -1,0 +1,32 @@
+{
+  "property": {
+    "owner_id": 1700622,
+    "property_type": 13,
+    "happy": 3600,
+    "upkeep": 100000,
+    "upgrades": [
+      "Sufficient interior",
+      "Large pool",
+      "Extra large vault",
+      "Hottub",
+      "Sauna",
+      "Bar",
+      "Shooting range",
+      "Medical facility",
+      "Airstrip"
+    ],
+    "staff": [
+      "5x Maid service",
+      "3x Butler service",
+      "Guard",
+      "Pilot"
+    ],
+    "rented": {
+      "user_id": 3247050,
+      "days_left": 19,
+      "total_cost": 10000000,
+      "cost_per_day": 322581
+    },
+    "users_living": "2656649,3247050"
+  }
+}

@@ -6,7 +6,7 @@
     },
     "search_the_subway": {
       "title": "Status: Off-Peak",
-      "percentage": 14
+      "percentage": 13
     },
     "search_the_junkyard": {
       "title": "Crushing: Weekdays 09:00 - 16:00",
@@ -14,7 +14,7 @@
     },
     "search_the_beach": {
       "title": "Tide: Low-tide",
-      "percentage": 77
+      "percentage": 78
     },
     "search_the_cemetery": {
       "title": "Groundskeeping: Weekdays 09:00 - 17:00",

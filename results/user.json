@@ -1,0 +1,75 @@
+{
+  "rank": "Reasonable Accomplice",
+  "level": 15,
+  "honor": 896,
+  "gender": "Female",
+  "property": "Private Island",
+  "signup": "2024-03-22 00:25:39",
+  "awards": 58,
+  "friends": 1,
+  "enemies": 1,
+  "forum_posts": 2,
+  "karma": 0,
+  "age": 43,
+  "role": "Civilian",
+  "donator": 1,
+  "player_id": 3247050,
+  "name": "GooseHumps",
+  "property_id": 4682410,
+  "revivable": 0,
+  "profile_image": null,
+  "life": {
+    "current": 625,
+    "maximum": 625,
+    "increment": 31,
+    "interval": 300,
+    "ticktime": 143,
+    "fulltime": 0
+  },
+  "status": {
+    "description": "Okay",
+    "details": "",
+    "state": "Okay",
+    "color": "green",
+    "until": 0
+  },
+  "job": {
+    "job": "Employee",
+    "position": "Ticket Agent",
+    "company_id": 67204,
+    "company_name": "-PopZaLand-",
+    "company_type": 31
+  },
+  "faction": {
+    "position": "Member",
+    "faction_id": 36201,
+    "days_in_faction": 12,
+    "faction_name": "-PopZ-",
+    "faction_tag": "PopZ"
+  },
+  "married": {
+    "spouse_id": 2656649,
+    "spouse_name": "Maaka",
+    "duration": 2
+  },
+  "basicicons": {
+    "icon7": "Female",
+    "icon4": "Subscriber",
+    "icon8": "Married - To Maaka",
+    "icon27": "Company - Ticket Agent of -PopZaLand- (Amusement Park)",
+    "icon9": "Faction - Member of -PopZ-"
+  },
+  "states": {
+    "hospital_timestamp": 0,
+    "jail_timestamp": 0
+  },
+  "last_action": {
+    "status": "Idle",
+    "timestamp": 1714789557,
+    "relative": "41 minutes ago"
+  },
+  "competition": {
+    "name": "Rock, Paper, Scissors",
+    "status": "scissors"
+  }
+}

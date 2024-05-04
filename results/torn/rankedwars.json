@@ -10,7 +10,7 @@
         "51725": {
           "name": "OWWs",
           "score": 84,
-          "chain": 0
+          "chain": 1
         }
       },
       "war": {
@@ -69,8 +69,8 @@
         },
         "51307": {
           "name": "The Street Rats",
-          "score": 1680,
-          "chain": 3
+          "score": 1687,
+          "chain": 0
         }
       },
       "war": {
@@ -89,8 +89,8 @@
         },
         "47600": {
           "name": "Valhalla Warriors",
-          "score": 41,
-          "chain": 0
+          "score": 49,
+          "chain": 1
         }
       },
       "war": {
@@ -149,8 +149,8 @@
         },
         "51304": {
           "name": "Legion Of Doom",
-          "score": 838,
-          "chain": 2
+          "score": 842,
+          "chain": 1
         }
       },
       "war": {
@@ -169,7 +169,7 @@
         },
         "51505": {
           "name": "INJUSTICE JOKERZ",
-          "score": 1759,
+          "score": 1780,
           "chain": 1
         }
       },
@@ -185,7 +185,7 @@
         "9305": {
           "name": "Legitimate Business",
           "score": 0,
-          "chain": 0
+          "chain": 1
         },
         "37450": {
           "name": "Wargasm-DNA",
@@ -244,8 +244,8 @@
       "factions": {
         "39226": {
           "name": "Samurai uprising",
-          "score": 1122,
-          "chain": 1
+          "score": 1141,
+          "chain": 2
         },
         "50424": {
           "name": "Ethereal Blade",
@@ -309,8 +309,8 @@
         },
         "51454": {
           "name": "Mystic Marauders",
-          "score": 1271,
-          "chain": 0
+          "score": 1291,
+          "chain": 7
         }
       },
       "war": {
@@ -404,8 +404,8 @@
       "factions": {
         "50350": {
           "name": "Mayans",
-          "score": 352,
-          "chain": 0
+          "score": 355,
+          "chain": 1
         },
         "51513": {
           "name": "Big Bad Boys",
@@ -429,8 +429,8 @@
         },
         "50344": {
           "name": "Beasts Of Nation",
-          "score": 2106,
-          "chain": 0
+          "score": 2112,
+          "chain": 1
         }
       },
       "war": {
@@ -444,8 +444,8 @@
       "factions": {
         "51439": {
           "name": "OLYMPIANS",
-          "score": 406,
-          "chain": 0
+          "score": 420,
+          "chain": 4
         },
         "51629": {
           "name": "The MeD-EviL Money Mafia4",
@@ -524,8 +524,8 @@
       "factions": {
         "49862": {
           "name": "Dirty Mike and the Boyz",
-          "score": 500,
-          "chain": 0
+          "score": 523,
+          "chain": 5
         },
         "51223": {
           "name": "Gangsta&#039;s With Attitude",
@@ -550,7 +550,7 @@
         "27223": {
           "name": "Little Stompers",
           "score": 15301,
-          "chain": 2035
+          "chain": 2037
         }
       },
       "war": {
@@ -589,8 +589,8 @@
         },
         "48040": {
           "name": "The Psychonauts",
-          "score": 4376,
-          "chain": 27
+          "score": 4385,
+          "chain": 41
         }
       },
       "war": {
@@ -604,8 +604,8 @@
       "factions": {
         "51447": {
           "name": "2nd Chance",
-          "score": 469,
-          "chain": 0
+          "score": 471,
+          "chain": 1
         },
         "51491": {
           "name": "THURSDAY",
@@ -625,7 +625,7 @@
         "41309": {
           "name": "Lucifer&#8217;s Saints",
           "score": 780,
-          "chain": 0
+          "chain": 1
         },
         "50228": {
           "name": "Enemies of the Sun",
@@ -689,8 +689,8 @@
         },
         "25857": {
           "name": "Road House",
-          "score": 6582,
-          "chain": 81
+          "score": 6601,
+          "chain": 0
         }
       },
       "war": {
@@ -744,13 +744,13 @@
       "factions": {
         "50094": {
           "name": "The Maulers",
-          "score": 74,
+          "score": 76,
           "chain": 0
         },
         "50433": {
           "name": "Golden Dawn Mafia",
-          "score": 640,
-          "chain": 1
+          "score": 653,
+          "chain": 0
         }
       },
       "war": {
@@ -809,7 +809,7 @@
         },
         "49507": {
           "name": "Atomic Warfare",
-          "score": 339,
+          "score": 343,
           "chain": 0
         }
       },
@@ -825,12 +825,12 @@
         "478": {
           "name": "PT-ShadowRazers",
           "score": 2373,
-          "chain": 4
+          "chain": 1
         },
         "1149": {
           "name": "WTF",
           "score": 20083,
-          "chain": 3
+          "chain": 0
         }
       },
       "war": {
@@ -890,7 +890,7 @@
         "51349": {
           "name": "Royal Cult of Death",
           "score": 846,
-          "chain": 1
+          "chain": 0
         }
       },
       "war": {
@@ -904,8 +904,8 @@
       "factions": {
         "48989": {
           "name": "Brutal Truth",
-          "score": 1045,
-          "chain": 136
+          "score": 1069,
+          "chain": 139
         },
         "50604": {
           "name": "Gurkha Revolutionary Army",
@@ -925,12 +925,12 @@
         "24321": {
           "name": "Paragon",
           "score": 1313,
-          "chain": 1
+          "chain": 0
         },
         "43057": {
           "name": "The Tiny Hats",
-          "score": 636,
-          "chain": 66
+          "score": 654,
+          "chain": 77
         }
       },
       "war": {
@@ -944,13 +944,13 @@
       "factions": {
         "38675": {
           "name": "The Legion of Evil",
-          "score": 0,
-          "chain": 0
+          "score": 15,
+          "chain": 1
         },
         "50982": {
           "name": "Lethal HQ",
-          "score": 0,
-          "chain": 0
+          "score": 13,
+          "chain": 6
         }
       },
       "war": {
@@ -965,12 +965,12 @@
         "49763": {
           "name": "Brotherhood of Darkness",
           "score": 662,
-          "chain": 4
+          "chain": 0
         },
         "50230": {
           "name": "The Panturas",
-          "score": 327,
-          "chain": 0
+          "score": 337,
+          "chain": 2
         }
       },
       "war": {
@@ -1009,8 +1009,8 @@
         },
         "50490": {
           "name": "Penguins At War",
-          "score": 745,
-          "chain": 0
+          "score": 748,
+          "chain": 1
         }
       },
       "war": {
@@ -1024,8 +1024,8 @@
       "factions": {
         "48628": {
           "name": "OccamsRazers",
-          "score": 1030,
-          "chain": 1
+          "score": 1033,
+          "chain": 0
         },
         "51062": {
           "name": "WuTangClan",
@@ -1044,8 +1044,8 @@
       "factions": {
         "51056": {
           "name": "Torn Sails",
-          "score": 1092,
-          "chain": 4
+          "score": 1099,
+          "chain": 2
         },
         "51192": {
           "name": "Frozen Fury",
@@ -1065,12 +1065,12 @@
         "21234": {
           "name": "Bagan Dynasty",
           "score": 0,
-          "chain": 1
+          "chain": 2
         },
         "45797": {
           "name": "OTC Outlaws",
           "score": 0,
-          "chain": 4
+          "chain": 16
         }
       },
       "war": {
@@ -1144,8 +1144,8 @@
       "factions": {
         "16443": {
           "name": "Undead Syndicate",
-          "score": 1134,
-          "chain": 42
+          "score": 1146,
+          "chain": 46
         },
         "41620": {
           "name": "Wargasm 3.0",
@@ -1204,8 +1204,8 @@
       "factions": {
         "27312": {
           "name": "SA  Equilibrium",
-          "score": 16649,
-          "chain": 2257
+          "score": 16893,
+          "chain": 2289
         },
         "33458": {
           "name": "SA One  Punch",
@@ -1224,13 +1224,13 @@
       "factions": {
         "20718": {
           "name": "Slithering Slayers",
-          "score": 4812,
-          "chain": 2
+          "score": 4833,
+          "chain": 0
         },
         "47893": {
           "name": "RENEGADE FORCE",
-          "score": 4335,
-          "chain": 49
+          "score": 4392,
+          "chain": 55
         }
       },
       "war": {
@@ -1264,8 +1264,8 @@
       "factions": {
         "2095": {
           "name": "insurreXtion",
-          "score": 8063,
-          "chain": 1318
+          "score": 8123,
+          "chain": 1326
         },
         "30584": {
           "name": "Disorderly Conduct",
@@ -1284,12 +1284,12 @@
       "factions": {
         "49922": {
           "name": "Warhawks",
-          "score": 386,
-          "chain": 1
+          "score": 392,
+          "chain": 0
         },
         "51506": {
           "name": "New Beasts Of Nation",
-          "score": 1429,
+          "score": 1432,
           "chain": 0
         }
       },
@@ -1330,7 +1330,7 @@
         "28073": {
           "name": "Shiny Hoard Avian Team",
           "score": 0,
-          "chain": 0
+          "chain": 1
         }
       },
       "war": {
@@ -1350,7 +1350,7 @@
         "13665": {
           "name": "PT-Penguins",
           "score": 0,
-          "chain": 1
+          "chain": 0
         }
       },
       "war": {
@@ -1404,13 +1404,13 @@
       "factions": {
         "8706": {
           "name": "Carbon",
-          "score": 13718,
-          "chain": 1375
+          "score": 13950,
+          "chain": 1404
         },
         "9524": {
           "name": "HT-Fenris",
-          "score": 318,
-          "chain": 0
+          "score": 343,
+          "chain": 4
         }
       },
       "war": {
@@ -1604,8 +1604,8 @@
       "factions": {
         "51719": {
           "name": "Woulff Pack",
-          "score": 854,
-          "chain": 2
+          "score": 856,
+          "chain": 0
         },
         "51723": {
           "name": "Hendricks",
@@ -1665,7 +1665,7 @@
         "41028": {
           "name": "BLOODLINE",
           "score": 2316,
-          "chain": 1
+          "chain": 0
         },
         "44404": {
           "name": "PA Wet Dream",
@@ -1689,8 +1689,8 @@
         },
         "21665": {
           "name": "Monarch Army of Light",
-          "score": 14281,
-          "chain": 2244
+          "score": 14333,
+          "chain": 2256
         }
       },
       "war": {
@@ -1725,12 +1725,12 @@
         "38634": {
           "name": "Takut Bini Army of Light",
           "score": 256,
-          "chain": 11
+          "chain": 17
         },
         "49380": {
           "name": "Crows",
-          "score": 1347,
-          "chain": 0
+          "score": 1351,
+          "chain": 1
         }
       },
       "war": {
@@ -1744,8 +1744,8 @@
       "factions": {
         "16299": {
           "name": "Dark Arts",
-          "score": 2938,
-          "chain": 82
+          "score": 3089,
+          "chain": 108
         },
         "37537": {
           "name": "Monarch Ascendance",
@@ -1804,8 +1804,8 @@
       "factions": {
         "6799": {
           "name": "The Untouchables",
-          "score": 8805,
-          "chain": 1387
+          "score": 8876,
+          "chain": 1399
         },
         "8537": {
           "name": "NNGO",
@@ -1864,8 +1864,8 @@
       "factions": {
         "41066": {
           "name": "Crimson Chaos Reapers",
-          "score": 707,
-          "chain": 155
+          "score": 721,
+          "chain": 158
         },
         "50348": {
           "name": "Fulca",
@@ -1884,8 +1884,8 @@
       "factions": {
         "49777": {
           "name": "The Goonies",
-          "score": 1280,
-          "chain": 0
+          "score": 1288,
+          "chain": 1
         },
         "50457": {
           "name": "New California Republic",
@@ -1924,8 +1924,8 @@
       "factions": {
         "35090": {
           "name": "Desert Phoenix",
-          "score": 5933,
-          "chain": 1000
+          "score": 5957,
+          "chain": 1006
         },
         "41291": {
           "name": "UNDERWORLD ASSASSINS",
@@ -1949,7 +1949,7 @@
         },
         "10507": {
           "name": "Ducks of Quacken",
-          "score": 2743,
+          "score": 2758,
           "chain": 0
         }
       },
@@ -1984,8 +1984,8 @@
       "factions": {
         "48097": {
           "name": "Scantia Legion",
-          "score": 3721,
-          "chain": 0
+          "score": 3737,
+          "chain": 8
         },
         "50070": {
           "name": "-Business &amp; Trade Family-",
@@ -2070,7 +2070,7 @@
         "16247": {
           "name": "Capacity X",
           "score": 2870,
-          "chain": 0
+          "chain": 1
         }
       },
       "war": {
@@ -2084,13 +2084,13 @@
       "factions": {
         "8400": {
           "name": "Lingering Insanity",
-          "score": 9184,
-          "chain": 833
+          "score": 9282,
+          "chain": 847
         },
         "39756": {
           "name": "Abusement Park",
-          "score": 9534,
-          "chain": 1511
+          "score": 9548,
+          "chain": 1513
         }
       },
       "war": {
@@ -2109,8 +2109,8 @@
         },
         "49070": {
           "name": "Fire of Zephyr",
-          "score": 1226,
-          "chain": 245
+          "score": 1413,
+          "chain": 250
         }
       },
       "war": {
@@ -2164,13 +2164,13 @@
       "factions": {
         "39788": {
           "name": "Cerberus",
-          "score": 7684,
-          "chain": 1573
+          "score": 7760,
+          "chain": 1584
         },
         "46708": {
           "name": "The Revenant",
-          "score": 1700,
-          "chain": 402
+          "score": 1732,
+          "chain": 409
         }
       },
       "war": {
@@ -2209,8 +2209,8 @@
         },
         "49646": {
           "name": "Immortal Warriors",
-          "score": 408,
-          "chain": 1
+          "score": 416,
+          "chain": 2
         }
       },
       "war": {
@@ -2225,12 +2225,12 @@
         "230": {
           "name": "PT-Family",
           "score": 5297,
-          "chain": 3
+          "chain": 0
         },
         "9533": {
           "name": "Natural Selection",
           "score": 13405,
-          "chain": 0
+          "chain": 1
         }
       },
       "war": {
@@ -2244,13 +2244,13 @@
       "factions": {
         "40959": {
           "name": "EPIC Mafia",
-          "score": 8193,
-          "chain": 1033
+          "score": 8217,
+          "chain": 1039
         },
         "44758": {
           "name": "NPO - Prosperity",
-          "score": 10276,
-          "chain": 835
+          "score": 10346,
+          "chain": 844
         }
       },
       "war": {
@@ -2284,8 +2284,8 @@
       "factions": {
         "8802": {
           "name": "Ram Rajya",
-          "score": 2506,
-          "chain": 32
+          "score": 2530,
+          "chain": 36
         },
         "48058": {
           "name": "Banty Shack",
@@ -2305,7 +2305,7 @@
         "49017": {
           "name": "Arcadian Rangers",
           "score": 0,
-          "chain": 0
+          "chain": 1
         },
         "49640": {
           "name": "MRC-Medivac Rescue Corps",
@@ -2344,8 +2344,8 @@
       "factions": {
         "49666": {
           "name": "WB - Helldivers",
-          "score": 1108,
-          "chain": 37
+          "score": 1119,
+          "chain": 39
         },
         "50586": {
           "name": "Pathfinders of Insignia",
@@ -2469,8 +2469,8 @@
         },
         "49624": {
           "name": "Threat Level Midnight",
-          "score": 653,
-          "chain": 0
+          "score": 656,
+          "chain": 1
         }
       },
       "war": {
@@ -2504,13 +2504,13 @@
       "factions": {
         "8124": {
           "name": "Samurai Warlords*",
-          "score": 2253,
-          "chain": 364
+          "score": 2303,
+          "chain": 374
         },
         "11376": {
           "name": "Also Impulse",
-          "score": 3341,
-          "chain": 902
+          "score": 3361,
+          "chain": 906
         }
       },
       "war": {
@@ -2525,7 +2525,7 @@
         "50356": {
           "name": "Colombo Crime Family",
           "score": 2316,
-          "chain": 0
+          "chain": 2
         },
         "51644": {
           "name": "Ironclad Union",
@@ -2549,8 +2549,8 @@
         },
         "50516": {
           "name": "Blackjack and Hookers",
-          "score": 915,
-          "chain": 21
+          "score": 954,
+          "chain": 26
         }
       },
       "war": {
@@ -2585,7 +2585,7 @@
         "49450": {
           "name": "The Couch Potatoes",
           "score": 0,
-          "chain": 0
+          "chain": 1
         },
         "49872": {
           "name": "DEFENDERS OF TRUTH",
@@ -2604,8 +2604,8 @@
       "factions": {
         "41123": {
           "name": "Rise",
-          "score": 2279,
-          "chain": 41
+          "score": 2287,
+          "chain": 43
         },
         "49924": {
           "name": "OnlyXans Premium",
@@ -2685,12 +2685,12 @@
         "36007": {
           "name": "Inferno 2.0",
           "score": 5053,
-          "chain": 1
+          "chain": 0
         },
         "49411": {
           "name": "~Twisted Minds~",
-          "score": 5199,
-          "chain": 33
+          "score": 5214,
+          "chain": 35
         }
       },
       "war": {
@@ -2704,8 +2704,8 @@
       "factions": {
         "41593": {
           "name": "TBA - Marauders",
-          "score": 717,
-          "chain": 1
+          "score": 728,
+          "chain": 3
         },
         "46700": {
           "name": "Bleeding Streets",
@@ -2765,12 +2765,12 @@
         "9405": {
           "name": "The Saviors",
           "score": 7085,
-          "chain": 1
+          "chain": 0
         },
         "49837": {
           "name": "Coma Toast",
-          "score": 1591,
-          "chain": 15
+          "score": 1604,
+          "chain": 17
         }
       },
       "war": {
@@ -2789,8 +2789,8 @@
         },
         "51638": {
           "name": "MUG LIFE",
-          "score": 634,
-          "chain": 0
+          "score": 662,
+          "chain": 8
         }
       },
       "war": {
@@ -2844,13 +2844,13 @@
       "factions": {
         "48514": {
           "name": "Undecided Haven",
-          "score": 278,
-          "chain": 0
+          "score": 280,
+          "chain": 1
         },
         "51239": {
           "name": "hades",
           "score": 393,
-          "chain": 3
+          "chain": 0
         }
       },
       "war": {
@@ -2884,8 +2884,8 @@
       "factions": {
         "9503": {
           "name": "TSFTS Microbrewery",
-          "score": 1903,
-          "chain": 1
+          "score": 1905,
+          "chain": 0
         },
         "49122": {
           "name": "Balls of Steel MC TCO",
@@ -2925,7 +2925,7 @@
         "30820": {
           "name": "Wolverines Gone Wild",
           "score": 2015,
-          "chain": 3462
+          "chain": 3476
         },
         "37426": {
           "name": "Monarch Embassy",
@@ -2945,12 +2945,12 @@
         "38741": {
           "name": "UPHEAVAL",
           "score": 873,
-          "chain": 2
+          "chain": 1
         },
         "50284": {
           "name": "Chaos Undivided",
-          "score": 479,
-          "chain": 0
+          "score": 502,
+          "chain": 4
         }
       },
       "war": {
@@ -2965,12 +2965,12 @@
         "48636": {
           "name": "ChickenShit",
           "score": 0,
-          "chain": 0
+          "chain": 3
         },
         "49072": {
           "name": "Wolf Pups",
           "score": 0,
-          "chain": 0
+          "chain": 2
         }
       },
       "war": {
@@ -3004,7 +3004,7 @@
       "factions": {
         "43889": {
           "name": "Knockout - Weight Room",
-          "score": 569,
+          "score": 580,
           "chain": 0
         },
         "50267": {
@@ -3029,8 +3029,8 @@
         },
         "49153": {
           "name": "Casuals",
-          "score": 1471,
-          "chain": 2
+          "score": 1482,
+          "chain": 0
         }
       },
       "war": {
@@ -3124,13 +3124,13 @@
       "factions": {
         "49306": {
           "name": "Gilligan&#039;s Island",
-          "score": 181,
+          "score": 186,
           "chain": 0
         },
         "51569": {
           "name": "Toastified",
-          "score": 3011,
-          "chain": 52
+          "score": 3045,
+          "chain": 56
         }
       },
       "war": {
@@ -3170,7 +3170,7 @@
         "7282": {
           "name": "Bloody Sloths",
           "score": 8553,
-          "chain": 1
+          "chain": 0
         }
       },
       "war": {
@@ -3209,8 +3209,8 @@
         },
         "48911": {
           "name": "The Holy Torn Empire",
-          "score": 2321,
-          "chain": 0
+          "score": 2344,
+          "chain": 8
         }
       },
       "war": {
@@ -3224,7 +3224,7 @@
       "factions": {
         "50482": {
           "name": "Orphan Grinder",
-          "score": 2152,
+          "score": 2166,
           "chain": 0
         },
         "51559": {
@@ -3249,8 +3249,8 @@
         },
         "49413": {
           "name": "Green &#039;Peace&#039;",
-          "score": 912,
-          "chain": 132
+          "score": 927,
+          "chain": 135
         }
       },
       "war": {
@@ -3289,7 +3289,7 @@
         },
         "14365": {
           "name": "JFK 2.1",
-          "score": 22139,
+          "score": 22208,
           "chain": 0
         }
       },
@@ -3325,7 +3325,7 @@
         "10877": {
           "name": "House of Dragonborn",
           "score": 0,
-          "chain": 0
+          "chain": 1
         },
         "27554": {
           "name": "Spawtans",
@@ -3450,7 +3450,7 @@
         "41929": {
           "name": "Valor",
           "score": 4323,
-          "chain": 0
+          "chain": 1
         }
       },
       "war": {
@@ -3504,8 +3504,8 @@
       "factions": {
         "6834": {
           "name": "TBA - Rise Above",
-          "score": 2414,
-          "chain": 383
+          "score": 2463,
+          "chain": 390
         },
         "42055": {
           "name": "Dead Fragment",
@@ -3545,7 +3545,7 @@
         "7990": {
           "name": "Nomads",
           "score": 0,
-          "chain": 1
+          "chain": 0
         },
         "43325": {
           "name": "Crime Syndicate",

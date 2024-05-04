@@ -69,7 +69,7 @@
       },
       {
         "title": "One guard",
-        "disabled": true
+        "disabled": false
       }
     ]
   }

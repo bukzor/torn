@@ -2,15 +2,15 @@
   "rockpaperscissors": [
     {
       "type": "rock",
-      "count": 597153
+      "count": 597154
     },
     {
       "type": "paper",
-      "count": 600189
+      "count": 600201
     },
     {
       "type": "scissors",
-      "count": 595660
+      "count": 595648
     }
   ]
 }

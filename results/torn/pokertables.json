@@ -13,7 +13,7 @@
       "big_blind": 25,
       "small_blind": 13,
       "speed": 15,
-      "current_players": 6,
+      "current_players": 8,
       "maximum_players": 9
     },
     "4": {
@@ -37,7 +37,7 @@
       "big_blind": 1000,
       "small_blind": 500,
       "speed": 15,
-      "current_players": 0,
+      "current_players": 1,
       "maximum_players": 9
     },
     "7": {
@@ -69,7 +69,7 @@
       "big_blind": 250000,
       "small_blind": 125000,
       "speed": 15,
-      "current_players": 9,
+      "current_players": 7,
       "maximum_players": 9
     },
     "11": {
@@ -149,7 +149,7 @@
       "big_blind": 50000,
       "small_blind": 25000,
       "speed": 15,
-      "current_players": 9,
+      "current_players": 7,
       "maximum_players": 9
     },
     "21": {

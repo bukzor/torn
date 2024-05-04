@@ -1,0 +1,375 @@
+{
+  "company": {
+    "ID": 67204,
+    "company_type": 31,
+    "rating": 7,
+    "name": "-PopZaLand-",
+    "director": 1687188,
+    "employees_hired": 20,
+    "employees_capacity": 20,
+    "daily_income": 4654700,
+    "daily_customers": 46547,
+    "weekly_income": 31224800,
+    "weekly_customers": 312248,
+    "days_old": 2750,
+    "employees": {
+      "1723396": {
+        "name": "Fellaini",
+        "position": "Manager",
+        "days_in_company": 2752,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714780969,
+          "relative": "3 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "1687188": {
+        "name": "Gele",
+        "position": "Director",
+        "days_in_company": 2752,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714783053,
+          "relative": "2 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "2556684": {
+        "name": "DedsecCifer",
+        "position": "Ride Attendant",
+        "days_in_company": 64,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714791568,
+          "relative": "8 minutes ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "1961779": {
+        "name": "Ae0n",
+        "position": "Ticket Agent",
+        "days_in_company": 2751,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714671795,
+          "relative": "1 day ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3133279": {
+        "name": "Kylegr",
+        "position": "Entertainer",
+        "days_in_company": 177,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714775527,
+          "relative": "4 hours ago"
+        },
+        "status": {
+          "description": "In UAE",
+          "details": "",
+          "state": "Abroad",
+          "color": "blue",
+          "until": 0
+        }
+      },
+      "2911241": {
+        "name": "Mr-Flint",
+        "position": "Ride Attendant",
+        "days_in_company": 34,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714767384,
+          "relative": "6 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "2766533": {
+        "name": "ProwessMaximus",
+        "position": "Ride Attendant",
+        "days_in_company": 68,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714747817,
+          "relative": "12 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "2988053": {
+        "name": "Hefalump",
+        "position": "Ride Attendant",
+        "days_in_company": 60,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714770288,
+          "relative": "6 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3133541": {
+        "name": "LNGY",
+        "position": "Ticket Agent",
+        "days_in_company": 46,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714763994,
+          "relative": "7 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3159830": {
+        "name": "CrabCore420x",
+        "position": "Ride Attendant",
+        "days_in_company": 84,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714754565,
+          "relative": "10 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3128715": {
+        "name": "kokushibo_",
+        "position": "Ride Attendant",
+        "days_in_company": 71,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714781926,
+          "relative": "2 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3217346": {
+        "name": "PranklinFierce",
+        "position": "Ticket Agent",
+        "days_in_company": 54,
+        "last_action": {
+          "status": "Idle",
+          "timestamp": 1714791279,
+          "relative": "12 minutes ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3135360": {
+        "name": "CommanderZog",
+        "position": "Ticket Agent",
+        "days_in_company": 14,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714768575,
+          "relative": "6 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3217345": {
+        "name": "Saaz",
+        "position": "Ticket Agent",
+        "days_in_company": 38,
+        "last_action": {
+          "status": "Idle",
+          "timestamp": 1714786918,
+          "relative": "1 hour ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3087156": {
+        "name": "sas707",
+        "position": "Ride Attendant",
+        "days_in_company": 47,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714784523,
+          "relative": "2 hours ago"
+        },
+        "status": {
+          "description": "Returning to Torn from South Africa",
+          "details": "",
+          "state": "Traveling",
+          "color": "blue",
+          "until": 0
+        }
+      },
+      "3092736": {
+        "name": "WomanInDaKitchn",
+        "position": "Ticket Agent",
+        "days_in_company": 90,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714766101,
+          "relative": "7 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3110058": {
+        "name": "Lettozen",
+        "position": "Ticket Agent",
+        "days_in_company": 81,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714538008,
+          "relative": "2 days ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3229473": {
+        "name": "Bilbo69",
+        "position": "Ticket Agent",
+        "days_in_company": 43,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714787836,
+          "relative": "1 hour ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3251063": {
+        "name": "JohnyBTbagn",
+        "position": "Ticket Agent",
+        "days_in_company": 32,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714791700,
+          "relative": "5 minutes ago"
+        },
+        "status": {
+          "description": "Traveling to South Africa",
+          "details": "",
+          "state": "Traveling",
+          "color": "blue",
+          "until": 0
+        }
+      },
+      "3159277": {
+        "name": "Dwiin",
+        "position": "Marketer",
+        "days_in_company": 138,
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1714783044,
+          "relative": "2 hours ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      },
+      "3247050": {
+        "name": "GooseHumps",
+        "position": "Ticket Agent",
+        "days_in_company": 5,
+        "last_action": {
+          "status": "Idle",
+          "timestamp": 1714789557,
+          "relative": "41 minutes ago"
+        },
+        "status": {
+          "description": "Okay",
+          "details": "",
+          "state": "Okay",
+          "color": "green",
+          "until": 0
+        }
+      }
+    }
+  }
+}
