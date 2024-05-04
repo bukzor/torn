@@ -1,0 +1,3 @@
+{
+  "territory": "Unfortunately, returning the data of all 4,109 territories at once in a single request is far too heavy in terms of server power and bandwidth. We believe a script has been running this for potentailly hundreds of players, causing additional latency for everyone on-site at around midnight, so we've been forced to close it. You can however still make this request by passing territory names in the ID field, I.e. AAB,AAC,AAD,AAE,AAF. This method can currently provide information on up to 50 territories at a time."
+}

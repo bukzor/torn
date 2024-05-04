@@ -1,0 +1,16 @@
+{
+  "rockpaperscissors": [
+    {
+      "type": "rock",
+      "count": 597153
+    },
+    {
+      "type": "paper",
+      "count": 600189
+    },
+    {
+      "type": "scissors",
+      "count": 595660
+    }
+  ]
+}

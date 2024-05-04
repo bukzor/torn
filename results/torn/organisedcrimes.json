@@ -1,0 +1,76 @@
+{
+  "organisedcrimes": {
+    "1": {
+      "name": "Blackmailing",
+      "members": 2,
+      "time": 24,
+      "min_cash": 6000,
+      "max_cash": 10000,
+      "min_respect": 1,
+      "max_respect": 2
+    },
+    "2": {
+      "name": "Kidnapping",
+      "members": 2,
+      "time": 48,
+      "min_cash": 15000,
+      "max_cash": 35000,
+      "min_respect": 3,
+      "max_respect": 5
+    },
+    "3": {
+      "name": "Bomb threat",
+      "members": 3,
+      "time": 72,
+      "min_cash": 50000,
+      "max_cash": 150000,
+      "min_respect": 7,
+      "max_respect": 10
+    },
+    "4": {
+      "name": "Planned robbery",
+      "members": 5,
+      "time": 96,
+      "min_cash": 400000,
+      "max_cash": 600000,
+      "min_respect": 18,
+      "max_respect": 24
+    },
+    "5": {
+      "name": "Robbing of a money train",
+      "members": 6,
+      "time": 120,
+      "min_cash": 3250000,
+      "max_cash": 4250000,
+      "min_respect": 25,
+      "max_respect": 35
+    },
+    "6": {
+      "name": "Taking over a cruise liner",
+      "members": 15,
+      "time": 144,
+      "min_cash": 17500000,
+      "max_cash": 27500000,
+      "min_respect": 65,
+      "max_respect": 80
+    },
+    "7": {
+      "name": "Plane hijacking",
+      "members": 8,
+      "time": 168,
+      "min_cash": 20000000,
+      "max_cash": 50000000,
+      "min_respect": 80,
+      "max_respect": 100
+    },
+    "8": {
+      "name": "Political Assassination",
+      "members": 4,
+      "time": 192,
+      "min_cash": 100000000,
+      "max_cash": 300000000,
+      "min_respect": 200,
+      "max_respect": 300
+    }
+  }
+}

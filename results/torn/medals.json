@@ -1,0 +1,2629 @@
+{
+  "medals": {
+    "1": {
+      "name": "Beginner",
+      "description": "Reach the rank of \"Beginner\"",
+      "type": "RNK",
+      "circulation": 829269,
+      "rarity": "Very Common"
+    },
+    "2": {
+      "name": "Inexperienced",
+      "description": "Reach the rank of \"Inexperienced\"",
+      "type": "RNK",
+      "circulation": 538022,
+      "rarity": "Very Common"
+    },
+    "3": {
+      "name": "Rookie",
+      "description": "Reach the rank of \"Rookie\"",
+      "type": "RNK",
+      "circulation": 452148,
+      "rarity": "Very Common"
+    },
+    "4": {
+      "name": "Novice",
+      "description": "Reach the rank of \"Novice\"",
+      "type": "RNK",
+      "circulation": 373866,
+      "rarity": "Very Common"
+    },
+    "5": {
+      "name": "Below Average",
+      "description": "Reach the rank of \"Below Average\"",
+      "type": "RNK",
+      "circulation": 309046,
+      "rarity": "Very Common"
+    },
+    "6": {
+      "name": "Average",
+      "description": "Reach the rank of \"Average\"",
+      "type": "RNK",
+      "circulation": 256271,
+      "rarity": "Very Common"
+    },
+    "7": {
+      "name": "Reasonable",
+      "description": "Reach the rank of \"Reasonable\"",
+      "type": "RNK",
+      "circulation": 198321,
+      "rarity": "Very Common"
+    },
+    "8": {
+      "name": "Above Average",
+      "description": "Reach the rank of \"Above Average\"",
+      "type": "RNK",
+      "circulation": 146475,
+      "rarity": "Very Common"
+    },
+    "9": {
+      "name": "Competent",
+      "description": "Reach the rank of \"Competent\"",
+      "type": "RNK",
+      "circulation": 115137,
+      "rarity": "Very Common"
+    },
+    "10": {
+      "name": "Highly Competent",
+      "description": "Reach the rank of \"Highly Competent\"",
+      "type": "RNK",
+      "circulation": 99156,
+      "rarity": "Very Common"
+    },
+    "11": {
+      "name": "Veteran",
+      "description": "Reach the rank of \"Veteran\"",
+      "type": "RNK",
+      "circulation": 87221,
+      "rarity": "Common"
+    },
+    "12": {
+      "name": "Distinguished",
+      "description": "Reach the rank of \"Distinguished\"",
+      "type": "RNK",
+      "circulation": 76949,
+      "rarity": "Common"
+    },
+    "13": {
+      "name": "Highly Distinguished",
+      "description": "Reach the rank of \"Highly Distinguished\"",
+      "type": "RNK",
+      "circulation": 67576,
+      "rarity": "Common"
+    },
+    "14": {
+      "name": "Professional",
+      "description": "Reach the rank of \"Professional\"",
+      "type": "RNK",
+      "circulation": 58402,
+      "rarity": "Common"
+    },
+    "15": {
+      "name": "Star",
+      "description": "Reach the rank of \"Star\"",
+      "type": "RNK",
+      "circulation": 47881,
+      "rarity": "Common"
+    },
+    "16": {
+      "name": "Master",
+      "description": "Reach the rank of \"Master\"",
+      "type": "RNK",
+      "circulation": 40070,
+      "rarity": "Common"
+    },
+    "17": {
+      "name": "Outstanding",
+      "description": "Reach the rank of \"Outstanding\"",
+      "type": "RNK",
+      "circulation": 33994,
+      "rarity": "Common"
+    },
+    "18": {
+      "name": "Celebrity",
+      "description": "Reach the rank of \"Celebrity\"",
+      "type": "RNK",
+      "circulation": 29145,
+      "rarity": "Uncommon"
+    },
+    "19": {
+      "name": "Supreme",
+      "description": "Reach the rank of \"Supreme\"",
+      "type": "RNK",
+      "circulation": 24693,
+      "rarity": "Uncommon"
+    },
+    "20": {
+      "name": "Idolized",
+      "description": "Reach the rank of \"Idolized\"",
+      "type": "RNK",
+      "circulation": 20689,
+      "rarity": "Uncommon"
+    },
+    "21": {
+      "name": "Champion",
+      "description": "Reach the rank of \"Champion\"",
+      "type": "RNK",
+      "circulation": 17064,
+      "rarity": "Uncommon"
+    },
+    "22": {
+      "name": "Heroic",
+      "description": "Reach the rank of \"Heroic\"",
+      "type": "RNK",
+      "circulation": 13103,
+      "rarity": "Limited"
+    },
+    "23": {
+      "name": "Legendary",
+      "description": "Reach the rank of \"Legendary\"",
+      "type": "RNK",
+      "circulation": 8375,
+      "rarity": "Limited"
+    },
+    "24": {
+      "name": "Elite",
+      "description": "Reach the rank of \"Elite\"",
+      "type": "RNK",
+      "circulation": 4011,
+      "rarity": "Rare"
+    },
+    "25": {
+      "name": "Invincible",
+      "description": "Reach the rank of \"Invincible\"",
+      "type": "RNK",
+      "circulation": 1166,
+      "rarity": "Very Rare"
+    },
+    "26": {
+      "name": "Apprentice Faction Member",
+      "description": "Serve 100 days in a single faction",
+      "type": "CMT",
+      "circulation": 179011,
+      "rarity": "Very Common"
+    },
+    "27": {
+      "name": "Committed Faction Member",
+      "description": "Serve 200 days in a single faction",
+      "type": "CMT",
+      "circulation": 124400,
+      "rarity": "Very Common"
+    },
+    "28": {
+      "name": "Loyal Faction Member",
+      "description": "Serve 300 days in a single faction",
+      "type": "CMT",
+      "circulation": 94687,
+      "rarity": "Common"
+    },
+    "29": {
+      "name": "Dedicated Faction Member",
+      "description": "Serve 400 days in a single faction",
+      "type": "CMT",
+      "circulation": 75680,
+      "rarity": "Common"
+    },
+    "30": {
+      "name": "Novice Buster",
+      "description": "Bust 250 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 22964,
+      "rarity": "Uncommon"
+    },
+    "31": {
+      "name": "Intermediate Buster",
+      "description": "Bust 500 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 14468,
+      "rarity": "Limited"
+    },
+    "32": {
+      "name": "Advanced Buster",
+      "description": "Bust 1,000 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 8502,
+      "rarity": "Limited"
+    },
+    "33": {
+      "name": "Professional Buster",
+      "description": "Bust 2,000 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 4120,
+      "rarity": "Rare"
+    },
+    "34": {
+      "name": "Level Five",
+      "description": "Reach level Five",
+      "type": "LVL",
+      "circulation": 494030,
+      "rarity": "Very Common"
+    },
+    "35": {
+      "name": "Level Ten",
+      "description": "Reach level Ten",
+      "type": "LVL",
+      "circulation": 320258,
+      "rarity": "Very Common"
+    },
+    "36": {
+      "name": "Level Fifteen",
+      "description": "Reach level Fifteen",
+      "type": "LVL",
+      "circulation": 217135,
+      "rarity": "Very Common"
+    },
+    "37": {
+      "name": "Level Twenty",
+      "description": "Reach level Twenty",
+      "type": "LVL",
+      "circulation": 144978,
+      "rarity": "Very Common"
+    },
+    "38": {
+      "name": "Level Twenty Five",
+      "description": "Reach level Twenty Five",
+      "type": "LVL",
+      "circulation": 101425,
+      "rarity": "Very Common"
+    },
+    "39": {
+      "name": "Level Thirty",
+      "description": "Reach level Thirty",
+      "type": "LVL",
+      "circulation": 77106,
+      "rarity": "Common"
+    },
+    "40": {
+      "name": "Level Thirty Five",
+      "description": "Reach level Thirty Five",
+      "type": "LVL",
+      "circulation": 59811,
+      "rarity": "Common"
+    },
+    "41": {
+      "name": "Level Forty",
+      "description": "Reach level Forty",
+      "type": "LVL",
+      "circulation": 48608,
+      "rarity": "Common"
+    },
+    "42": {
+      "name": "Level Forty Five",
+      "description": "Reach level Forty Five",
+      "type": "LVL",
+      "circulation": 39716,
+      "rarity": "Common"
+    },
+    "43": {
+      "name": "Level Fifty",
+      "description": "Reach level Fifty",
+      "type": "LVL",
+      "circulation": 33715,
+      "rarity": "Common"
+    },
+    "44": {
+      "name": "Level Fifty Five",
+      "description": "Reach level Fifty Five",
+      "type": "LVL",
+      "circulation": 27589,
+      "rarity": "Uncommon"
+    },
+    "45": {
+      "name": "Level Sixty",
+      "description": "Reach level Sixty",
+      "type": "LVL",
+      "circulation": 23844,
+      "rarity": "Uncommon"
+    },
+    "46": {
+      "name": "Level Sixty Five",
+      "description": "Reach level Sixty Five",
+      "type": "LVL",
+      "circulation": 20257,
+      "rarity": "Uncommon"
+    },
+    "47": {
+      "name": "Level Seventy",
+      "description": "Reach level Seventy",
+      "type": "LVL",
+      "circulation": 17150,
+      "rarity": "Uncommon"
+    },
+    "48": {
+      "name": "Level Seventy Five",
+      "description": "Reach level Seventy Five",
+      "type": "LVL",
+      "circulation": 14608,
+      "rarity": "Limited"
+    },
+    "49": {
+      "name": "Level Eighty",
+      "description": "Reach level Eighty",
+      "type": "LVL",
+      "circulation": 12317,
+      "rarity": "Limited"
+    },
+    "50": {
+      "name": "Level Eighty Five",
+      "description": "Reach level Eighty Five",
+      "type": "LVL",
+      "circulation": 10141,
+      "rarity": "Limited"
+    },
+    "51": {
+      "name": "Level Ninety",
+      "description": "Reach level Ninety",
+      "type": "LVL",
+      "circulation": 8173,
+      "rarity": "Rare"
+    },
+    "52": {
+      "name": "Level Ninety Five",
+      "description": "Reach level Ninety Five",
+      "type": "LVL",
+      "circulation": 5821,
+      "rarity": "Rare"
+    },
+    "53": {
+      "name": "Level One Hundred",
+      "description": "Reach level One Hundred",
+      "type": "LVL",
+      "circulation": 3854,
+      "rarity": "Rare"
+    },
+    "54": {
+      "name": "Ub3rn00b Hacker",
+      "description": "Commit 500 Computer crimes",
+      "type": "CRM",
+      "circulation": 26935,
+      "rarity": "Uncommon"
+    },
+    "55": {
+      "name": "N00b Hacker",
+      "description": "Commit 1,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 18091,
+      "rarity": "Uncommon"
+    },
+    "56": {
+      "name": "1337n00b Hacker",
+      "description": "Commit 1,500 Computer crimes",
+      "type": "CRM",
+      "circulation": 13105,
+      "rarity": "Limited"
+    },
+    "57": {
+      "name": "Ph34r3dn00b Hacker",
+      "description": "Commit 2,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 10551,
+      "rarity": "Limited"
+    },
+    "58": {
+      "name": "Ph34r3d Hacker",
+      "description": "Commit 2,500 Computer crimes",
+      "type": "CRM",
+      "circulation": 8783,
+      "rarity": "Limited"
+    },
+    "59": {
+      "name": "Ph34r3d1337 Hacker",
+      "description": "Commit 3,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 7421,
+      "rarity": "Rare"
+    },
+    "60": {
+      "name": "Ub3rph34r3d Hacker",
+      "description": "Commit 3,500 Computer crimes",
+      "type": "CRM",
+      "circulation": 6458,
+      "rarity": "Rare"
+    },
+    "61": {
+      "name": "Ub3r Hacker",
+      "description": "Commit 4,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 5733,
+      "rarity": "Rare"
+    },
+    "62": {
+      "name": "1337 Hacker",
+      "description": "Commit 4,500 Computer crimes",
+      "type": "CRM",
+      "circulation": 5145,
+      "rarity": "Rare"
+    },
+    "63": {
+      "name": "Ub3r1337 Hacker",
+      "description": "Commit 5,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 4686,
+      "rarity": "Rare"
+    },
+    "64": {
+      "name": "Beginner Assassin",
+      "description": "Commit 1,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 7035,
+      "rarity": "Rare"
+    },
+    "65": {
+      "name": "Novice Assassin",
+      "description": "Commit 2,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 2284,
+      "rarity": "Very Rare"
+    },
+    "66": {
+      "name": "Competent Assassin",
+      "description": "Commit 3,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 1432,
+      "rarity": "Very Rare"
+    },
+    "67": {
+      "name": "Elite Assassin",
+      "description": "Commit 4,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 1088,
+      "rarity": "Very Rare"
+    },
+    "68": {
+      "name": "Deadly Assassin",
+      "description": "Commit 5,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 917,
+      "rarity": "Very Rare"
+    },
+    "69": {
+      "name": "Gone In 300 Seconds",
+      "description": "Commit 200 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 31408,
+      "rarity": "Uncommon"
+    },
+    "70": {
+      "name": "Gone In 240 Seconds",
+      "description": "Commit 400 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 25475,
+      "rarity": "Uncommon"
+    },
+    "71": {
+      "name": "Gone In 180 Seconds",
+      "description": "Commit 600 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 21732,
+      "rarity": "Uncommon"
+    },
+    "72": {
+      "name": "Gone In 120 Seconds",
+      "description": "Commit 800 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 18903,
+      "rarity": "Uncommon"
+    },
+    "73": {
+      "name": "Gone In 60 Seconds",
+      "description": "Commit 1,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 16842,
+      "rarity": "Uncommon"
+    },
+    "74": {
+      "name": "Silver Anniversary",
+      "description": "Stay married to a single person for 50 days without divorce",
+      "type": "CMT",
+      "circulation": 205206,
+      "rarity": "Very Common"
+    },
+    "75": {
+      "name": "Ruby Anniversary",
+      "description": "Stay married to a single person for 100 days without divorce",
+      "type": "CMT",
+      "circulation": 178985,
+      "rarity": "Very Common"
+    },
+    "76": {
+      "name": "Sapphire Anniversary",
+      "description": "Stay married to a single person for 150 days without divorce",
+      "type": "CMT",
+      "circulation": 160987,
+      "rarity": "Very Common"
+    },
+    "77": {
+      "name": "Emerald Anniversary",
+      "description": "Stay married to a single person for 200 days without divorce",
+      "type": "CMT",
+      "circulation": 147267,
+      "rarity": "Very Common"
+    },
+    "78": {
+      "name": "Gold Anniversary",
+      "description": "Stay married to a single person for 250 days without divorce",
+      "type": "CMT",
+      "circulation": 136413,
+      "rarity": "Very Common"
+    },
+    "79": {
+      "name": "Diamond Anniversary",
+      "description": "Stay married to a single person for 300 days without divorce",
+      "type": "CMT",
+      "circulation": 127450,
+      "rarity": "Very Common"
+    },
+    "80": {
+      "name": "Platinum Anniversary",
+      "description": "Stay married to a single person for 350 days without divorce",
+      "type": "CMT",
+      "circulation": 119545,
+      "rarity": "Very Common"
+    },
+    "81": {
+      "name": "Sneak Thief",
+      "description": "Commit 1,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 121638,
+      "rarity": "Very Common"
+    },
+    "82": {
+      "name": "Prowler",
+      "description": "Commit 2,500 Theft crimes",
+      "type": "CRM",
+      "circulation": 49553,
+      "rarity": "Common"
+    },
+    "83": {
+      "name": "Safe Cracker",
+      "description": "Commit 5,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 16780,
+      "rarity": "Uncommon"
+    },
+    "84": {
+      "name": "Cat Burglar",
+      "description": "Commit 10,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 10944,
+      "rarity": "Limited"
+    },
+    "85": {
+      "name": "Drug Pusher",
+      "description": "Commit 250 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 30486,
+      "rarity": "Uncommon"
+    },
+    "86": {
+      "name": "Drug Runner",
+      "description": "Commit 500 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 16586,
+      "rarity": "Uncommon"
+    },
+    "87": {
+      "name": "Drug Dealer",
+      "description": "Commit 1,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 6491,
+      "rarity": "Rare"
+    },
+    "88": {
+      "name": "Drug Lord",
+      "description": "Commit 2,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 2322,
+      "rarity": "Very Rare"
+    },
+    "89": {
+      "name": "Apprentice",
+      "description": "Have a recorded networth value of $100,000 for at least 3 days",
+      "type": "NTW",
+      "circulation": 421164,
+      "rarity": "Very Common"
+    },
+    "90": {
+      "name": "Entrepreneur",
+      "description": "Have a recorded networth value of $250,000 for at least 3 days",
+      "type": "NTW",
+      "circulation": 357770,
+      "rarity": "Very Common"
+    },
+    "91": {
+      "name": "Executive",
+      "description": "Have a recorded networth value of $500,000 for at least 3 days",
+      "type": "NTW",
+      "circulation": 327164,
+      "rarity": "Very Common"
+    },
+    "92": {
+      "name": "Millionaire",
+      "description": "Have a recorded networth value of $1,000,000 for at least 3 days",
+      "type": "NTW",
+      "circulation": 299443,
+      "rarity": "Very Common"
+    },
+    "93": {
+      "name": "Multimillionaire",
+      "description": "Have a recorded networth value of $2,500,000 for at least 7 days",
+      "type": "NTW",
+      "circulation": 244513,
+      "rarity": "Very Common"
+    },
+    "94": {
+      "name": "Capitalist",
+      "description": "Have a recorded networth value of $10,000,000 for at least 7 days",
+      "type": "NTW",
+      "circulation": 195579,
+      "rarity": "Very Common"
+    },
+    "95": {
+      "name": "Plutocrat",
+      "description": "Have a recorded networth value of $25,000,000 for at least 14 days",
+      "type": "NTW",
+      "circulation": 152879,
+      "rarity": "Very Common"
+    },
+    "96": {
+      "name": "Aristocrat",
+      "description": "Have a recorded networth value of $100,000,000 for at least 14 days",
+      "type": "NTW",
+      "circulation": 111675,
+      "rarity": "Very Common"
+    },
+    "97": {
+      "name": "Fake",
+      "description": "Commit 300 Fraud crimes",
+      "type": "CRM",
+      "circulation": 44478,
+      "rarity": "Common"
+    },
+    "98": {
+      "name": "Counterfeit",
+      "description": "Commit 600 Fraud crimes",
+      "type": "CRM",
+      "circulation": 39286,
+      "rarity": "Common"
+    },
+    "99": {
+      "name": "Pretender",
+      "description": "Commit 900 Fraud crimes",
+      "type": "CRM",
+      "circulation": 35149,
+      "rarity": "Common"
+    },
+    "100": {
+      "name": "Imposter",
+      "description": "Commit 1,500 Fraud crimes",
+      "type": "CRM",
+      "circulation": 28580,
+      "rarity": "Uncommon"
+    },
+    "101": {
+      "name": "Pseudo",
+      "description": "Commit 2,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 24548,
+      "rarity": "Uncommon"
+    },
+    "102": {
+      "name": "Gone in 45 Seconds",
+      "description": "Commit 1,200 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 14844,
+      "rarity": "Limited"
+    },
+    "103": {
+      "name": "Gone in 30 Seconds",
+      "description": "Commit 1,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 12602,
+      "rarity": "Limited"
+    },
+    "104": {
+      "name": "Gone in 15 Seconds",
+      "description": "Commit 2,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 9671,
+      "rarity": "Limited"
+    },
+    "105": {
+      "name": "Expert Buster",
+      "description": "Bust 4,000 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 1836,
+      "rarity": "Very Rare"
+    },
+    "106": {
+      "name": "Master Buster",
+      "description": "Bust 6,000 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 1043,
+      "rarity": "Very Rare"
+    },
+    "107": {
+      "name": "Guru Buster",
+      "description": "Bust 8,000 people from the Torn City jail",
+      "type": "OTR",
+      "circulation": 684,
+      "rarity": "Very Rare"
+    },
+    "108": {
+      "name": "Faithful Faction Member",
+      "description": "Serve 500 days in a single faction",
+      "type": "CMT",
+      "circulation": 62343,
+      "rarity": "Common"
+    },
+    "109": {
+      "name": "Allegiant Faction Member",
+      "description": "Serve 600 days in a single faction",
+      "type": "CMT",
+      "circulation": 52191,
+      "rarity": "Common"
+    },
+    "110": {
+      "name": "Double Silver Anniversary",
+      "description": "Stay married to a single person for 400 days without divorce",
+      "type": "CMT",
+      "circulation": 112671,
+      "rarity": "Very Common"
+    },
+    "111": {
+      "name": "Double Ruby Anniversary",
+      "description": "Stay married to a single person for 450 days without divorce",
+      "type": "CMT",
+      "circulation": 106776,
+      "rarity": "Very Common"
+    },
+    "112": {
+      "name": "Double Sapphire Anniversary",
+      "description": "Stay married to a single person for 500 days without divorce",
+      "type": "CMT",
+      "circulation": 101735,
+      "rarity": "Very Common"
+    },
+    "113": {
+      "name": "Double Emerald Anniversary",
+      "description": "Stay married to a single person for 550 days without divorce",
+      "type": "CMT",
+      "circulation": 97067,
+      "rarity": "Common"
+    },
+    "114": {
+      "name": "Double Gold Anniversary",
+      "description": "Stay married to a single person for 600 days without divorce",
+      "type": "CMT",
+      "circulation": 92862,
+      "rarity": "Common"
+    },
+    "115": {
+      "name": "Double Diamond Anniversary",
+      "description": "Stay married to a single person for 650 days without divorce",
+      "type": "CMT",
+      "circulation": 88789,
+      "rarity": "Common"
+    },
+    "116": {
+      "name": "Double Platinum Anniversary",
+      "description": "Stay married to a single person for 700 days without divorce",
+      "type": "CMT",
+      "circulation": 85114,
+      "rarity": "Common"
+    },
+    "117": {
+      "name": "Imitation",
+      "description": "Commit 2,500 Fraud crimes",
+      "type": "CRM",
+      "circulation": 21398,
+      "rarity": "Uncommon"
+    },
+    "118": {
+      "name": "Simulated",
+      "description": "Commit 3,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 18854,
+      "rarity": "Uncommon"
+    },
+    "119": {
+      "name": "Hoax",
+      "description": "Commit 3,500 Fraud crimes",
+      "type": "CRM",
+      "circulation": 16782,
+      "rarity": "Uncommon"
+    },
+    "120": {
+      "name": "Faux",
+      "description": "Commit 4,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 15175,
+      "rarity": "Limited"
+    },
+    "121": {
+      "name": "Booster",
+      "description": "Commit 2,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 7794,
+      "rarity": "Rare"
+    },
+    "122": {
+      "name": "Joyrider",
+      "description": "Commit 3,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 6460,
+      "rarity": "Rare"
+    },
+    "123": {
+      "name": "Super Booster",
+      "description": "Commit 3,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 5448,
+      "rarity": "Rare"
+    },
+    "124": {
+      "name": "Master Carjacker",
+      "description": "Commit 4,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 4698,
+      "rarity": "Rare"
+    },
+    "125": {
+      "name": "Lethal Assassin",
+      "description": "Commit 6,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 640,
+      "rarity": "Very Rare"
+    },
+    "126": {
+      "name": "Fatal Assassin",
+      "description": "Commit 7,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 554,
+      "rarity": "Very Rare"
+    },
+    "127": {
+      "name": "Poser",
+      "description": "Commit 5,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 12615,
+      "rarity": "Limited"
+    },
+    "128": {
+      "name": "Deception",
+      "description": "Commit 6,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 10215,
+      "rarity": "Limited"
+    },
+    "129": {
+      "name": "Phony",
+      "description": "Commit 7,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 8654,
+      "rarity": "Limited"
+    },
+    "130": {
+      "name": "Parody",
+      "description": "Commit 8,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 7459,
+      "rarity": "Rare"
+    },
+    "131": {
+      "name": "Travesty",
+      "description": "Commit 9,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 6497,
+      "rarity": "Rare"
+    },
+    "132": {
+      "name": "Pyro",
+      "description": "Commit 10,000 Fraud crimes",
+      "type": "CRM",
+      "circulation": 5707,
+      "rarity": "Rare"
+    },
+    "133": {
+      "name": "Slim Jim",
+      "description": "Commit 4,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 4101,
+      "rarity": "Rare"
+    },
+    "134": {
+      "name": "Novice Joy Rider",
+      "description": "Commit 5,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 3686,
+      "rarity": "Rare"
+    },
+    "135": {
+      "name": "Novice Slim Jim",
+      "description": "Commit 5,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 3062,
+      "rarity": "Very Rare"
+    },
+    "136": {
+      "name": "Professional Joy Rider",
+      "description": "Commit 6,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 2724,
+      "rarity": "Very Rare"
+    },
+    "137": {
+      "name": "Professional Booster",
+      "description": "Commit 6,500 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 2433,
+      "rarity": "Very Rare"
+    },
+    "138": {
+      "name": "Professional Slim Jim",
+      "description": "Commit 7,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 2218,
+      "rarity": "Very Rare"
+    },
+    "139": {
+      "name": "Master Joy Rider",
+      "description": "Commit 8,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 1807,
+      "rarity": "Very Rare"
+    },
+    "140": {
+      "name": "Master Booster",
+      "description": "Commit 9,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 1535,
+      "rarity": "Very Rare"
+    },
+    "141": {
+      "name": "Master Slim Jim",
+      "description": "Commit 10,000 Grand theft auto crimes",
+      "type": "CRM",
+      "circulation": 1360,
+      "rarity": "Very Rare"
+    },
+    "142": {
+      "name": "Key Puncher",
+      "description": "Commit 5,500 Computer crimes",
+      "type": "CRM",
+      "circulation": 3976,
+      "rarity": "Rare"
+    },
+    "143": {
+      "name": "Script Kid",
+      "description": "Commit 6,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 3570,
+      "rarity": "Rare"
+    },
+    "144": {
+      "name": "Geek Speak",
+      "description": "Commit 7,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 2834,
+      "rarity": "Very Rare"
+    },
+    "145": {
+      "name": "Techie",
+      "description": "Commit 8,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 2347,
+      "rarity": "Very Rare"
+    },
+    "146": {
+      "name": "Cyber Punk",
+      "description": "Commit 9,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 1999,
+      "rarity": "Very Rare"
+    },
+    "147": {
+      "name": "Programmer",
+      "description": "Commit 10,000 Computer crimes",
+      "type": "CRM",
+      "circulation": 1758,
+      "rarity": "Very Rare"
+    },
+    "148": {
+      "name": "Devoted Faction Member",
+      "description": "Serve 700 days in a single faction",
+      "type": "CMT",
+      "circulation": 44247,
+      "rarity": "Common"
+    },
+    "149": {
+      "name": "Dutiful Faction Member",
+      "description": "Serve 800 days in a single faction",
+      "type": "CMT",
+      "circulation": 37901,
+      "rarity": "Common"
+    },
+    "150": {
+      "name": "Flawless Faction Member",
+      "description": "Serve 900 days in a single faction",
+      "type": "CMT",
+      "circulation": 32667,
+      "rarity": "Uncommon"
+    },
+    "151": {
+      "name": " Honorable Faction Member",
+      "description": "Serve 1,000 days in a single faction",
+      "type": "CMT",
+      "circulation": 28702,
+      "rarity": "Uncommon"
+    },
+    "152": {
+      "name": "Candy Man",
+      "description": "Commit 4,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 1172,
+      "rarity": "Very Rare"
+    },
+    "153": {
+      "name": "The Connection",
+      "description": "Commit 6,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 694,
+      "rarity": "Very Rare"
+    },
+    "154": {
+      "name": "King Pin",
+      "description": "Commit 8,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 534,
+      "rarity": "Very Rare"
+    },
+    "155": {
+      "name": "Supplier",
+      "description": "Commit 10,000 Drug dealing crimes",
+      "type": "CRM",
+      "circulation": 470,
+      "rarity": "Very Rare"
+    },
+    "156": {
+      "name": "Triple Silver Anniversary",
+      "description": "Stay married to a single person for 750 days without divorce",
+      "type": "CMT",
+      "circulation": 81328,
+      "rarity": "Common"
+    },
+    "157": {
+      "name": "Triple Ruby Anniversary",
+      "description": "Stay married to a single person for 800 days without divorce",
+      "type": "CMT",
+      "circulation": 78108,
+      "rarity": "Common"
+    },
+    "158": {
+      "name": "Triple Sapphire Anniversary",
+      "description": "Stay married to a single person for 850 days without divorce",
+      "type": "CMT",
+      "circulation": 74990,
+      "rarity": "Common"
+    },
+    "159": {
+      "name": "Triple Emerald Anniversary",
+      "description": "Stay married to a single person for 900 days without divorce",
+      "type": "CMT",
+      "circulation": 72162,
+      "rarity": "Common"
+    },
+    "160": {
+      "name": "Triple Gold Anniversary",
+      "description": "Stay married to a single person for 1,000 days without divorce",
+      "type": "CMT",
+      "circulation": 67066,
+      "rarity": "Common"
+    },
+    "161": {
+      "name": "Triple Diamond Anniversary",
+      "description": "Stay married to a single person for 1,500 days without divorce",
+      "type": "CMT",
+      "circulation": 44904,
+      "rarity": "Common"
+    },
+    "162": {
+      "name": "Triple Platinum Anniversary",
+      "description": "Stay married to a single person for 2,000 days without divorce",
+      "type": "CMT",
+      "circulation": 31354,
+      "rarity": "Uncommon"
+    },
+    "163": {
+      "name": "Trigger Man",
+      "description": "Commit 8,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 484,
+      "rarity": "Very Rare"
+    },
+    "164": {
+      "name": "Hit Man",
+      "description": "Commit 9,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 447,
+      "rarity": "Very Rare"
+    },
+    "165": {
+      "name": "Executioner",
+      "description": "Commit 10,000 Murder crimes",
+      "type": "CRM",
+      "circulation": 405,
+      "rarity": "Very Rare"
+    },
+    "166": {
+      "name": "Marauder",
+      "description": "Commit 7,500 Theft crimes",
+      "type": "CRM",
+      "circulation": 8594,
+      "rarity": "Limited"
+    },
+    "167": {
+      "name": "Pilferer",
+      "description": "Commit 12,500 Theft crimes",
+      "type": "CRM",
+      "circulation": 3555,
+      "rarity": "Rare"
+    },
+    "168": {
+      "name": "Desperado",
+      "description": "Commit 15,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 2636,
+      "rarity": "Very Rare"
+    },
+    "169": {
+      "name": "Rustler",
+      "description": "Commit 17,500 Theft crimes",
+      "type": "CRM",
+      "circulation": 2013,
+      "rarity": "Very Rare"
+    },
+    "170": {
+      "name": "Pick-Pocket",
+      "description": "Commit 20,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 1698,
+      "rarity": "Very Rare"
+    },
+    "171": {
+      "name": "Vandal",
+      "description": "Commit 22,500 Theft crimes",
+      "type": "CRM",
+      "circulation": 1419,
+      "rarity": "Very Rare"
+    },
+    "172": {
+      "name": "Kleptomaniac",
+      "description": "Commit 25,000 Theft crimes",
+      "type": "CRM",
+      "circulation": 1255,
+      "rarity": "Very Rare"
+    },
+    "173": {
+      "name": "Clandestine",
+      "description": "Commit 1,200 Fraud crimes",
+      "type": "CRM",
+      "circulation": 31454,
+      "rarity": "Uncommon"
+    },
+    "174": {
+      "name": "Anti Social",
+      "description": "Win 50 attacks",
+      "type": "ATK",
+      "circulation": 218860,
+      "rarity": "Very Common"
+    },
+    "175": {
+      "name": "Happy Slapper",
+      "description": "Win 250 attacks",
+      "type": "ATK",
+      "circulation": 113439,
+      "rarity": "Very Common"
+    },
+    "176": {
+      "name": "Scar Maker",
+      "description": "Win 500 attacks",
+      "type": "ATK",
+      "circulation": 78893,
+      "rarity": "Common"
+    },
+    "177": {
+      "name": "Tooth and Nail",
+      "description": "Win 2,500 attacks",
+      "type": "ATK",
+      "circulation": 29292,
+      "rarity": "Uncommon"
+    },
+    "178": {
+      "name": "Somebody Call 911",
+      "description": "Win 10,000 attacks",
+      "type": "ATK",
+      "circulation": 5949,
+      "rarity": "Rare"
+    },
+    "179": {
+      "name": "Bouncer",
+      "description": "Successfully defend against 50 attacks",
+      "type": "ATK",
+      "circulation": 56581,
+      "rarity": "Common"
+    },
+    "180": {
+      "name": "Brick Wall",
+      "description": "Successfully defend against 250 attacks",
+      "type": "ATK",
+      "circulation": 14836,
+      "rarity": "Limited"
+    },
+    "181": {
+      "name": "Turtle",
+      "description": "Successfully defend against 500 attacks",
+      "type": "ATK",
+      "circulation": 8252,
+      "rarity": "Limited"
+    },
+    "182": {
+      "name": "Solid as a Rock",
+      "description": "Successfully defend against 2,500 attacks",
+      "type": "ATK",
+      "circulation": 1441,
+      "rarity": "Very Rare"
+    },
+    "183": {
+      "name": "Fortress",
+      "description": "Successfully defend against 10,000 attacks",
+      "type": "ATK",
+      "circulation": 382,
+      "rarity": "Very Rare"
+    },
+    "184": {
+      "name": "Close Escape",
+      "description": "Successfully escape from 50 foes",
+      "type": "ATK",
+      "circulation": 12691,
+      "rarity": "Limited"
+    },
+    "185": {
+      "name": "Blind Judgement",
+      "description": "Successfully escape from 250 foes",
+      "type": "ATK",
+      "circulation": 2045,
+      "rarity": "Very Rare"
+    },
+    "186": {
+      "name": "Overzealous",
+      "description": "Successfully escape from 1,000 foes",
+      "type": "ATK",
+      "circulation": 694,
+      "rarity": "Very Rare"
+    },
+    "187": {
+      "name": "Ego Smashing",
+      "description": "Have 50 enemies escape from you during an attack",
+      "type": "ATK",
+      "circulation": 7149,
+      "rarity": "Rare"
+    },
+    "188": {
+      "name": "Underestimated",
+      "description": "Have 250 enemies escape from you during an attack",
+      "type": "ATK",
+      "circulation": 1727,
+      "rarity": "Very Rare"
+    },
+    "189": {
+      "name": "Run Forrest Run",
+      "description": "Have 1,000 enemies escape from you during an attack",
+      "type": "ATK",
+      "circulation": 773,
+      "rarity": "Very Rare"
+    },
+    "190": {
+      "name": "Strike",
+      "description": "Acquire a kill streak of 25",
+      "type": "ATK",
+      "circulation": 145415,
+      "rarity": "Very Common"
+    },
+    "191": {
+      "name": "Barrage",
+      "description": "Acquire a kill streak of 50",
+      "type": "ATK",
+      "circulation": 81613,
+      "rarity": "Common"
+    },
+    "192": {
+      "name": "Skirmish",
+      "description": "Acquire a kill streak of 100",
+      "type": "ATK",
+      "circulation": 36268,
+      "rarity": "Common"
+    },
+    "193": {
+      "name": "Blitzkrieg",
+      "description": "Acquire a kill streak of 250",
+      "type": "ATK",
+      "circulation": 8855,
+      "rarity": "Limited"
+    },
+    "194": {
+      "name": "Onslaught",
+      "description": "Acquire a kill streak of 500",
+      "type": "ATK",
+      "circulation": 4352,
+      "rarity": "Rare"
+    },
+    "195": {
+      "name": "Boom Headshot",
+      "description": "Deal 500 critical hits to enemies during combat",
+      "type": "ATK",
+      "circulation": 53710,
+      "rarity": "Common"
+    },
+    "196": {
+      "name": "Pwned in the Face",
+      "description": "Deal 2,500 critical hits to enemies during combat",
+      "type": "ATK",
+      "circulation": 16534,
+      "rarity": "Uncommon"
+    },
+    "197": {
+      "name": "Lee Harvey Oswald",
+      "description": "Deal 10,000 critical hits to enemies during combat",
+      "type": "ATK",
+      "circulation": 2744,
+      "rarity": "Very Rare"
+    },
+    "198": {
+      "name": "Pin Cushion",
+      "description": "Use 500 medical items",
+      "type": "OTR",
+      "circulation": 77126,
+      "rarity": "Common"
+    },
+    "199": {
+      "name": "Painkiller Abuse",
+      "description": "Use 5,000 medical items",
+      "type": "OTR",
+      "circulation": 17433,
+      "rarity": "Uncommon"
+    },
+    "200": {
+      "name": "Attention Seeker",
+      "description": "Use 25,000 medical items",
+      "type": "OTR",
+      "circulation": 1579,
+      "rarity": "Very Rare"
+    },
+    "201": {
+      "name": "Hired Gun",
+      "description": "Collect 25 bounties",
+      "type": "ATK",
+      "circulation": 43652,
+      "rarity": "Common"
+    },
+    "202": {
+      "name": "Bone Collector",
+      "description": "Collect 100 bounties",
+      "type": "ATK",
+      "circulation": 19827,
+      "rarity": "Uncommon"
+    },
+    "203": {
+      "name": "The Fett",
+      "description": "Collect 500 bounties",
+      "type": "ATK",
+      "circulation": 6045,
+      "rarity": "Rare"
+    },
+    "204": {
+      "name": "Watchful",
+      "description": "Find 10 items in the city",
+      "type": "OTR",
+      "circulation": 132402,
+      "rarity": "Very Common"
+    },
+    "205": {
+      "name": "Finders Keepers",
+      "description": "Find 50 items in the city",
+      "type": "OTR",
+      "circulation": 83011,
+      "rarity": "Common"
+    },
+    "206": {
+      "name": "Eagle Eye",
+      "description": "Find 100 items in the city",
+      "type": "OTR",
+      "circulation": 63139,
+      "rarity": "Common"
+    },
+    "207": {
+      "name": "Frequent Flyer",
+      "description": "Travel abroad 25 times",
+      "type": "OTR",
+      "circulation": 109945,
+      "rarity": "Very Common"
+    },
+    "208": {
+      "name": "Jetlagged",
+      "description": "Travel abroad 100 times",
+      "type": "OTR",
+      "circulation": 78203,
+      "rarity": "Common"
+    },
+    "209": {
+      "name": "Mile High Club",
+      "description": "Travel abroad 500 times",
+      "type": "OTR",
+      "circulation": 38209,
+      "rarity": "Common"
+    },
+    "210": {
+      "name": "Citizenship",
+      "description": "Be a donator for 30 days",
+      "type": "CMT",
+      "circulation": 130432,
+      "rarity": "Very Common"
+    },
+    "211": {
+      "name": "Devoted",
+      "description": "Be a donator for 100 days",
+      "type": "CMT",
+      "circulation": 79951,
+      "rarity": "Common"
+    },
+    "212": {
+      "name": "Diligent",
+      "description": "Be a donator for 250 days",
+      "type": "CMT",
+      "circulation": 58051,
+      "rarity": "Common"
+    },
+    "213": {
+      "name": "Valiant",
+      "description": "Be a donator for 500 days",
+      "type": "CMT",
+      "circulation": 42377,
+      "rarity": "Common"
+    },
+    "214": {
+      "name": "Patriotic",
+      "description": "Be a donator for 1000 days",
+      "type": "CMT",
+      "circulation": 26736,
+      "rarity": "Uncommon"
+    },
+    "215": {
+      "name": "Recruit",
+      "description": "Earn 100 respect for your faction",
+      "type": "ATK",
+      "circulation": 140182,
+      "rarity": "Very Common"
+    },
+    "216": {
+      "name": "Associate",
+      "description": "Earn 500 respect for your faction",
+      "type": "ATK",
+      "circulation": 90440,
+      "rarity": "Common"
+    },
+    "217": {
+      "name": "Picciotto",
+      "description": "Earn 1,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 69750,
+      "rarity": "Common"
+    },
+    "218": {
+      "name": "Soldier",
+      "description": "Earn 2,500 respect for your faction",
+      "type": "ATK",
+      "circulation": 47483,
+      "rarity": "Common"
+    },
+    "219": {
+      "name": "Capo",
+      "description": "Earn 5,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 33949,
+      "rarity": "Common"
+    },
+    "220": {
+      "name": "Contabile",
+      "description": "Earn 10,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 22427,
+      "rarity": "Uncommon"
+    },
+    "221": {
+      "name": "Consigliere",
+      "description": "Earn 25,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 10366,
+      "rarity": "Limited"
+    },
+    "222": {
+      "name": "Underboss",
+      "description": "Earn 50,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 4207,
+      "rarity": "Rare"
+    },
+    "223": {
+      "name": "Boss",
+      "description": "Earn 75,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 2007,
+      "rarity": "Very Rare"
+    },
+    "224": {
+      "name": "Boss Of All Bosses",
+      "description": "Earn 100,000 respect for your faction",
+      "type": "ATK",
+      "circulation": 1017,
+      "rarity": "Very Rare"
+    },
+    "225": {
+      "name": "One Year of Service",
+      "description": "Live in Torn for one year",
+      "type": "CMT",
+      "circulation": 226238,
+      "rarity": "Very Common"
+    },
+    "226": {
+      "name": "Two Years of Service",
+      "description": "Live in Torn for two years",
+      "type": "CMT",
+      "circulation": 172990,
+      "rarity": "Very Common"
+    },
+    "227": {
+      "name": "Three Years of Service",
+      "description": "Live in Torn for three years",
+      "type": "CMT",
+      "circulation": 138738,
+      "rarity": "Very Common"
+    },
+    "228": {
+      "name": "Four Years of Service",
+      "description": "Live in Torn for four years",
+      "type": "CMT",
+      "circulation": 108538,
+      "rarity": "Very Common"
+    },
+    "229": {
+      "name": "Five Years of Service",
+      "description": "Live in Torn for five years",
+      "type": "CMT",
+      "circulation": 83655,
+      "rarity": "Common"
+    },
+    "230": {
+      "name": "Six Years of Service",
+      "description": "Live in Torn for six years",
+      "type": "CMT",
+      "circulation": 66121,
+      "rarity": "Common"
+    },
+    "231": {
+      "name": "Seven Years of Service",
+      "description": "Live in Torn for seven years",
+      "type": "CMT",
+      "circulation": 55442,
+      "rarity": "Common"
+    },
+    "232": {
+      "name": "Eight Years of Service",
+      "description": "Live in Torn for eight years",
+      "type": "CMT",
+      "circulation": 46021,
+      "rarity": "Common"
+    },
+    "234": {
+      "name": "Nine Years of Service",
+      "description": "Live in Torn for nine years",
+      "type": "CMT",
+      "circulation": 38368,
+      "rarity": "Common"
+    },
+    "235": {
+      "name": "Ten Years of Service",
+      "description": "Live in Torn for ten years",
+      "type": "CMT",
+      "circulation": 32101,
+      "rarity": "Uncommon"
+    },
+    "236": {
+      "name": "Mogul",
+      "description": "Have a recorded networth value of $250,000,000 for at least 28 days",
+      "type": "NTW",
+      "circulation": 85001,
+      "rarity": "Common"
+    },
+    "237": {
+      "name": "Billionaire",
+      "description": "Have a recorded networth value of $1,000,000,000 for at least 28 days",
+      "type": "NTW",
+      "circulation": 58253,
+      "rarity": "Common"
+    },
+    "238": {
+      "name": "Multibillionaire",
+      "description": "Have a recorded networth value of $2,500,000,000 for at least 56 days",
+      "type": "NTW",
+      "circulation": 39562,
+      "rarity": "Common"
+    },
+    "239": {
+      "name": "Baron",
+      "description": "Have a recorded networth value of $10,000,000,000 for at least 56 days",
+      "type": "NTW",
+      "circulation": 16366,
+      "rarity": "Limited"
+    },
+    "240": {
+      "name": "Oligarch",
+      "description": "Have a recorded networth value of $25,000,000,000 for at least 112 days",
+      "type": "NTW",
+      "circulation": 5540,
+      "rarity": "Rare"
+    },
+    "241": {
+      "name": "Tycoon",
+      "description": "Have a recorded networth value of $100,000,000,000 for at least 112 days",
+      "type": "NTW",
+      "circulation": 594,
+      "rarity": "Very Rare"
+    },
+    "242": {
+      "name": "Trainee Troublemaker",
+      "description": "Commit a total of 100 criminal offenses",
+      "type": "CRM",
+      "circulation": 68493,
+      "rarity": "Common"
+    },
+    "243": {
+      "name": "Budding Bandit",
+      "description": "Commit a total of 200 criminal offenses",
+      "type": "CRM",
+      "circulation": 63418,
+      "rarity": "Common"
+    },
+    "244": {
+      "name": "Aspiring Assailant",
+      "description": "Commit a total of 300 criminal offenses",
+      "type": "CRM",
+      "circulation": 60385,
+      "rarity": "Common"
+    },
+    "245": {
+      "name": "Fledgling Felon",
+      "description": "Commit a total of 500 criminal offenses",
+      "type": "CRM",
+      "circulation": 56418,
+      "rarity": "Common"
+    },
+    "246": {
+      "name": "Freshman Fiend",
+      "description": "Commit a total of 750 criminal offenses",
+      "type": "CRM",
+      "circulation": 53222,
+      "rarity": "Common"
+    },
+    "247": {
+      "name": "Despicable Deviant",
+      "description": "Commit a total of 1,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 50874,
+      "rarity": "Common"
+    },
+    "248": {
+      "name": "Conniving Culprit",
+      "description": "Commit a total of 1,500 criminal offenses",
+      "type": "CRM",
+      "circulation": 47404,
+      "rarity": "Common"
+    },
+    "249": {
+      "name": "Sordid Sinner",
+      "description": "Commit a total of 2,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 44856,
+      "rarity": "Common"
+    },
+    "250": {
+      "name": "Polished Perpetrator",
+      "description": "Commit a total of 2,500 criminal offenses",
+      "type": "CRM",
+      "circulation": 42883,
+      "rarity": "Common"
+    },
+    "251": {
+      "name": "Relentless Reprobate",
+      "description": "Commit a total of 3,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 41194,
+      "rarity": "Common"
+    },
+    "252": {
+      "name": "Resolute Rogue",
+      "description": "Commit a total of 4,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 38399,
+      "rarity": "Common"
+    },
+    "253": {
+      "name": "Veteran Villain",
+      "description": "Commit a total of 5,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 36201,
+      "rarity": "Common"
+    },
+    "254": {
+      "name": "Masterful Miscreant",
+      "description": "Commit a total of 6,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 34311,
+      "rarity": "Common"
+    },
+    "255": {
+      "name": "Merciless Malefactor",
+      "description": "Commit a total of 7,500 criminal offenses",
+      "type": "CRM",
+      "circulation": 32008,
+      "rarity": "Uncommon"
+    },
+    "256": {
+      "name": "Legendary Lawbreaker",
+      "description": "Commit a total of 10,000 criminal offenses",
+      "type": "CRM",
+      "circulation": 28823,
+      "rarity": "Uncommon"
+    },
+    "257": {
+      "name": "Sinister Scoundrel",
+      "description": "Commit 100 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 36245,
+      "rarity": "Common"
+    },
+    "258": {
+      "name": "Devious Delinquent",
+      "description": "Commit 200 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 33523,
+      "rarity": "Common"
+    },
+    "259": {
+      "name": "Rebellious Ruffian",
+      "description": "Commit 300 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 31773,
+      "rarity": "Uncommon"
+    },
+    "260": {
+      "name": "Artistic Anarchist",
+      "description": "Commit 500 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 29446,
+      "rarity": "Uncommon"
+    },
+    "261": {
+      "name": "Renegade Rascal",
+      "description": "Commit 750 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 27491,
+      "rarity": "Uncommon"
+    },
+    "262": {
+      "name": "Decisive Defacer",
+      "description": "Commit 1,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 25901,
+      "rarity": "Uncommon"
+    },
+    "263": {
+      "name": "Villainous Vandal",
+      "description": "Commit 1,500 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 23425,
+      "rarity": "Uncommon"
+    },
+    "264": {
+      "name": "Menacing Misfit",
+      "description": "Commit 2,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 21970,
+      "rarity": "Uncommon"
+    },
+    "265": {
+      "name": "Radical Rebel",
+      "description": "Commit 2,500 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 20300,
+      "rarity": "Uncommon"
+    },
+    "266": {
+      "name": "Urban Upsetter",
+      "description": "Commit 3,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 11802,
+      "rarity": "Limited"
+    },
+    "267": {
+      "name": "Malicious Maverick",
+      "description": "Commit 4,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 6125,
+      "rarity": "Rare"
+    },
+    "268": {
+      "name": "Reckless Renovator",
+      "description": "Commit 5,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 3628,
+      "rarity": "Rare"
+    },
+    "269": {
+      "name": "Dynamic Destructor",
+      "description": "Commit 6,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 1590,
+      "rarity": "Very Rare"
+    },
+    "270": {
+      "name": "Infernal Instigator",
+      "description": "Commit 7,500 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 1089,
+      "rarity": "Very Rare"
+    },
+    "271": {
+      "name": "Nefarious Nihilist",
+      "description": "Commit 10,000 Vandalism offenses",
+      "type": "CRM",
+      "circulation": 776,
+      "rarity": "Very Rare"
+    },
+    "272": {
+      "name": "Petty Pilferer",
+      "description": "Commit 100 Theft offenses",
+      "type": "CRM",
+      "circulation": 65004,
+      "rarity": "Common"
+    },
+    "273": {
+      "name": "Crafty Crook",
+      "description": "Commit 200 Theft offenses",
+      "type": "CRM",
+      "circulation": 59811,
+      "rarity": "Common"
+    },
+    "274": {
+      "name": "Nifty Nicker",
+      "description": "Commit 300 Theft offenses",
+      "type": "CRM",
+      "circulation": 56572,
+      "rarity": "Common"
+    },
+    "275": {
+      "name": "Sneaky Snatcher",
+      "description": "Commit 500 Theft offenses",
+      "type": "CRM",
+      "circulation": 52507,
+      "rarity": "Common"
+    },
+    "276": {
+      "name": "Brazen Booster",
+      "description": "Commit 750 Theft offenses",
+      "type": "CRM",
+      "circulation": 49224,
+      "rarity": "Common"
+    },
+    "277": {
+      "name": "Stealthy Stealer",
+      "description": "Commit 1,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 46753,
+      "rarity": "Common"
+    },
+    "278": {
+      "name": "Rampant Robber",
+      "description": "Commit 1,500 Theft offenses",
+      "type": "CRM",
+      "circulation": 43082,
+      "rarity": "Common"
+    },
+    "279": {
+      "name": "Bold Burglar",
+      "description": "Commit 2,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 40271,
+      "rarity": "Common"
+    },
+    "280": {
+      "name": "Invisible Intruder",
+      "description": "Commit 2,500 Theft offenses",
+      "type": "CRM",
+      "circulation": 37989,
+      "rarity": "Common"
+    },
+    "281": {
+      "name": "Lucrative Larcenist",
+      "description": "Commit 3,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 36006,
+      "rarity": "Common"
+    },
+    "282": {
+      "name": "Looting Luminary",
+      "description": "Commit 4,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 32549,
+      "rarity": "Uncommon"
+    },
+    "283": {
+      "name": "Formidable Filcher",
+      "description": "Commit 5,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 29579,
+      "rarity": "Uncommon"
+    },
+    "284": {
+      "name": "Sophisticated Swiper",
+      "description": "Commit 6,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 27047,
+      "rarity": "Uncommon"
+    },
+    "285": {
+      "name": "Notorious Nabber",
+      "description": "Commit 7,500 Theft offenses",
+      "type": "CRM",
+      "circulation": 23887,
+      "rarity": "Uncommon"
+    },
+    "286": {
+      "name": "Prolific Plunderer",
+      "description": "Commit 10,000 Theft offenses",
+      "type": "CRM",
+      "circulation": 19703,
+      "rarity": "Uncommon"
+    },
+    "287": {
+      "name": "Digital Duplicator",
+      "description": "Commit 100 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 47631,
+      "rarity": "Common"
+    },
+    "288": {
+      "name": "Covert Copier",
+      "description": "Commit 200 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 41829,
+      "rarity": "Common"
+    },
+    "289": {
+      "name": "Resourceful Replicator",
+      "description": "Commit 300 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 38485,
+      "rarity": "Common"
+    },
+    "290": {
+      "name": "Mimicking Maestro",
+      "description": "Commit 500 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 34721,
+      "rarity": "Common"
+    },
+    "291": {
+      "name": "Faux Fabricator",
+      "description": "Commit 750 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 32325,
+      "rarity": "Uncommon"
+    },
+    "292": {
+      "name": "Mock Manufacturer",
+      "description": "Commit 1,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 30336,
+      "rarity": "Uncommon"
+    },
+    "293": {
+      "name": "Furtive Faker",
+      "description": "Commit 1,500 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 26357,
+      "rarity": "Uncommon"
+    },
+    "294": {
+      "name": "Duplicitous Designer",
+      "description": "Commit 2,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 23978,
+      "rarity": "Uncommon"
+    },
+    "295": {
+      "name": "Counterfeit Crafter",
+      "description": "Commit 2,500 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 22438,
+      "rarity": "Uncommon"
+    },
+    "296": {
+      "name": "Emphatic Emulator",
+      "description": "Commit 3,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 21193,
+      "rarity": "Uncommon"
+    },
+    "297": {
+      "name": "Meticulous Maker",
+      "description": "Commit 4,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 15891,
+      "rarity": "Limited"
+    },
+    "298": {
+      "name": "Artificial Artisan",
+      "description": "Commit 5,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 9238,
+      "rarity": "Limited"
+    },
+    "299": {
+      "name": "Impeccable Imitator",
+      "description": "Commit 6,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 6718,
+      "rarity": "Rare"
+    },
+    "300": {
+      "name": "Bogus Buccaneer",
+      "description": "Commit 7,500 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 4999,
+      "rarity": "Rare"
+    },
+    "301": {
+      "name": "Famed Forger",
+      "description": "Commit 10,000 Counterfeiting offenses",
+      "type": "CRM",
+      "circulation": 2560,
+      "rarity": "Very Rare"
+    },
+    "302": {
+      "name": "Troublesome Trickster",
+      "description": "Commit 100 Fraud offenses",
+      "type": "CRM",
+      "circulation": 35745,
+      "rarity": "Common"
+    },
+    "303": {
+      "name": "Shameless Shyster",
+      "description": "Commit 200 Fraud offenses",
+      "type": "CRM",
+      "circulation": 31666,
+      "rarity": "Uncommon"
+    },
+    "304": {
+      "name": "Greedy Grifter",
+      "description": "Commit 300 Fraud offenses",
+      "type": "CRM",
+      "circulation": 29588,
+      "rarity": "Uncommon"
+    },
+    "305": {
+      "name": "Daring Deceiver",
+      "description": "Commit 500 Fraud offenses",
+      "type": "CRM",
+      "circulation": 27017,
+      "rarity": "Uncommon"
+    },
+    "306": {
+      "name": "Provocative Persuader",
+      "description": "Commit 750 Fraud offenses",
+      "type": "CRM",
+      "circulation": 25098,
+      "rarity": "Uncommon"
+    },
+    "307": {
+      "name": "Dexterous Defrauder",
+      "description": "Commit 1,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 23833,
+      "rarity": "Uncommon"
+    },
+    "308": {
+      "name": "Enterprising Enticer",
+      "description": "Commit 1,500 Fraud offenses",
+      "type": "CRM",
+      "circulation": 21916,
+      "rarity": "Uncommon"
+    },
+    "309": {
+      "name": "Blackhearted Bluffer",
+      "description": "Commit 2,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 20489,
+      "rarity": "Uncommon"
+    },
+    "310": {
+      "name": "Scheming Scammer",
+      "description": "Commit 2,500 Fraud offenses",
+      "type": "CRM",
+      "circulation": 19320,
+      "rarity": "Uncommon"
+    },
+    "311": {
+      "name": "Swanky Swindler",
+      "description": "Commit 3,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 18425,
+      "rarity": "Uncommon"
+    },
+    "312": {
+      "name": "Impressive Imposter",
+      "description": "Commit 4,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 16733,
+      "rarity": "Uncommon"
+    },
+    "313": {
+      "name": "Canny Conman",
+      "description": "Commit 5,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 15388,
+      "rarity": "Limited"
+    },
+    "314": {
+      "name": "Frenzied Fraudster",
+      "description": "Commit 6,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 14134,
+      "rarity": "Limited"
+    },
+    "315": {
+      "name": "Bankrupting Bilker",
+      "description": "Commit 7,500 Fraud offenses",
+      "type": "CRM",
+      "circulation": 12554,
+      "rarity": "Limited"
+    },
+    "316": {
+      "name": "Misdirection Master",
+      "description": "Commit 10,000 Fraud offenses",
+      "type": "CRM",
+      "circulation": 10634,
+      "rarity": "Limited"
+    },
+    "317": {
+      "name": "Underworld Upstart",
+      "description": "Commit 100 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 23354,
+      "rarity": "Uncommon"
+    },
+    "318": {
+      "name": "Murky Middleman",
+      "description": "Commit 200 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 20466,
+      "rarity": "Uncommon"
+    },
+    "319": {
+      "name": "Grievous Goon",
+      "description": "Commit 300 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 18600,
+      "rarity": "Uncommon"
+    },
+    "320": {
+      "name": "Heinous Henchman",
+      "description": "Commit 500 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 16089,
+      "rarity": "Limited"
+    },
+    "321": {
+      "name": "Hardworking Heavy",
+      "description": "Commit 750 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 12300,
+      "rarity": "Limited"
+    },
+    "322": {
+      "name": "Intrepid Intermediary",
+      "description": "Commit 1,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 10104,
+      "rarity": "Limited"
+    },
+    "323": {
+      "name": "Crooked Connector",
+      "description": "Commit 1,500 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 7325,
+      "rarity": "Rare"
+    },
+    "324": {
+      "name": "Belligerent Broker",
+      "description": "Commit 2,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 5894,
+      "rarity": "Rare"
+    },
+    "325": {
+      "name": "Criminal Contractor",
+      "description": "Commit 2,500 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 4935,
+      "rarity": "Rare"
+    },
+    "326": {
+      "name": "Dark Dealmaker",
+      "description": "Commit 3,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 4334,
+      "rarity": "Rare"
+    },
+    "327": {
+      "name": "Lawless Liaison",
+      "description": "Commit 4,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 3697,
+      "rarity": "Rare"
+    },
+    "328": {
+      "name": "Clandestine Collaborator",
+      "description": "Commit 5,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 3323,
+      "rarity": "Rare"
+    },
+    "329": {
+      "name": "Felonious Facilitator",
+      "description": "Commit 6,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 2913,
+      "rarity": "Very Rare"
+    },
+    "330": {
+      "name": "Amoral Arbitrator",
+      "description": "Commit 7,500 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 2546,
+      "rarity": "Very Rare"
+    },
+    "331": {
+      "name": "Vice Vendor",
+      "description": "Commit 10,000 Illicit Service offenses",
+      "type": "CRM",
+      "circulation": 2196,
+      "rarity": "Very Rare"
+    },
+    "332": {
+      "name": "Web Wizard",
+      "description": "Commit 100 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 28609,
+      "rarity": "Uncommon"
+    },
+    "333": {
+      "name": "Digital Desperado",
+      "description": "Commit 200 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 26556,
+      "rarity": "Uncommon"
+    },
+    "334": {
+      "name": "Tech Tinkerer",
+      "description": "Commit 300 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 25343,
+      "rarity": "Uncommon"
+    },
+    "335": {
+      "name": "Virtual Virtuoso",
+      "description": "Commit 500 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 23502,
+      "rarity": "Uncommon"
+    },
+    "336": {
+      "name": "Phishing Phenom",
+      "description": "Commit 750 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 21592,
+      "rarity": "Uncommon"
+    },
+    "337": {
+      "name": "Network Ninja",
+      "description": "Commit 1,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 20181,
+      "rarity": "Uncommon"
+    },
+    "338": {
+      "name": "Expert Exploiter",
+      "description": "Commit 1,500 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 17392,
+      "rarity": "Uncommon"
+    },
+    "339": {
+      "name": "Data Dynamo",
+      "description": "Commit 2,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 15384,
+      "rarity": "Limited"
+    },
+    "340": {
+      "name": "Code Commando",
+      "description": "Commit 2,500 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 13703,
+      "rarity": "Limited"
+    },
+    "341": {
+      "name": "Online Outlaw",
+      "description": "Commit 3,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 12414,
+      "rarity": "Limited"
+    },
+    "342": {
+      "name": "Malware Mogul",
+      "description": "Commit 4,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 9251,
+      "rarity": "Limited"
+    },
+    "343": {
+      "name": "System Saboteur",
+      "description": "Commit 5,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 7324,
+      "rarity": "Rare"
+    },
+    "344": {
+      "name": "Heinous Hacker",
+      "description": "Commit 6,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 6048,
+      "rarity": "Rare"
+    },
+    "345": {
+      "name": "Backdoor Baron",
+      "description": "Commit 7,500 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 4743,
+      "rarity": "Rare"
+    },
+    "346": {
+      "name": "Byte Boss",
+      "description": "Commit 10,000 Cybercrime offenses",
+      "type": "CRM",
+      "circulation": 3306,
+      "rarity": "Rare"
+    },
+    "347": {
+      "name": "Budding Bully",
+      "description": "Commit 100 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "348": {
+      "name": "Novice Negotiator",
+      "description": "Commit 200 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "349": {
+      "name": "Cunning Coercer",
+      "description": "Commit 300 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "350": {
+      "name": "Professional Pressurer",
+      "description": "Commit 500 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "351": {
+      "name": "Haughty Harasser",
+      "description": "Commit 750 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "352": {
+      "name": "Calculating Coaxer",
+      "description": "Commit 1,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "353": {
+      "name": "Exceptional Extortionist",
+      "description": "Commit 1,500 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "354": {
+      "name": "Polished Persuader",
+      "description": "Commit 2,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "355": {
+      "name": "Effective Enforcer",
+      "description": "Commit 2,500 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "356": {
+      "name": "Industrious Intimidator",
+      "description": "Commit 3,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "357": {
+      "name": "Ruthless Racketeer",
+      "description": "Commit 4,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "358": {
+      "name": "Ominous Oppressor",
+      "description": "Commit 5,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "359": {
+      "name": "Vindictive Victimizer",
+      "description": "Commit 6,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "360": {
+      "name": "Master Manipulator",
+      "description": "Commit 7,500 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "361": {
+      "name": "Tyrannical Terrorizer",
+      "description": "Commit 10,000 Extortion offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "362": {
+      "name": "Grass Grower",
+      "description": "Commit 100 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "363": {
+      "name": "Dope Developer",
+      "description": "Commit 200 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "364": {
+      "name": "Seedy Supplier",
+      "description": "Commit 300 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "365": {
+      "name": "Blackmarket Botanist",
+      "description": "Commit 500 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "366": {
+      "name": "Narcotics Nurturer",
+      "description": "Commit 750 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "367": {
+      "name": "Revered Refiner",
+      "description": "Commit 1,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "368": {
+      "name": "Forbidden Fabricator",
+      "description": "Commit 1,500 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "369": {
+      "name": "Back-alley Builder",
+      "description": "Commit 2,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "370": {
+      "name": "Contraband Creator",
+      "description": "Commit 2,500 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "371": {
+      "name": "Covert Craftsman",
+      "description": "Commit 3,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "372": {
+      "name": "Illicit Innovator",
+      "description": "Commit 4,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "373": {
+      "name": "Prohibited Producer",
+      "description": "Commit 5,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "374": {
+      "name": "Workshop Wizard",
+      "description": "Commit 6,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "375": {
+      "name": "Synthetic Scientist",
+      "description": "Commit 7,500 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    },
+    "376": {
+      "name": "Production Prodigy",
+      "description": "Commit 10,000 Illegal Production offenses",
+      "type": "CRM",
+      "circulation": 0,
+      "rarity": "Unknown Rarity"
+    }
+  }
+}

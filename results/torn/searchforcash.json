@@ -1,0 +1,28 @@
+{
+  "searchforcash": {
+    "search_the_trash": {
+      "title": "Trash Collection: Mondays 06:00 - 18:00",
+      "percentage": 67
+    },
+    "search_the_subway": {
+      "title": "Status: Off-Peak",
+      "percentage": 14
+    },
+    "search_the_junkyard": {
+      "title": "Crushing: Weekdays 09:00 - 16:00",
+      "percentage": 17
+    },
+    "search_the_beach": {
+      "title": "Tide: Low-tide",
+      "percentage": 77
+    },
+    "search_the_cemetery": {
+      "title": "Groundskeeping: Weekdays 09:00 - 17:00",
+      "percentage": 75
+    },
+    "search_the_fountain": {
+      "title": "Collections: 1st of the month 13:00 - 16:00",
+      "percentage": 8
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "raids": {
+    "2179": {
+      "assaulting_faction": 43664,
+      "defending_faction": 38909,
+      "assaulting_score": 437.76,
+      "defending_score": 0,
+      "started": 1588546284
+    },
+    "2393": {
+      "assaulting_faction": 45457,
+      "defending_faction": 41720,
+      "assaulting_score": 72.23,
+      "defending_score": 0,
+      "started": 1593393238
+    },
+    "2727": {
+      "assaulting_faction": 46270,
+      "defending_faction": 44416,
+      "assaulting_score": 0,
+      "defending_score": 0,
+      "started": 1606202350
+    },
+    "3446": {
+      "assaulting_faction": 42542,
+      "defending_faction": 44269,
+      "assaulting_score": 662.64,
+      "defending_score": 0,
+      "started": 1644220837
+    },
+    "3594": {
+      "assaulting_faction": 48271,
+      "defending_faction": 42047,
+      "assaulting_score": 13.95,
+      "defending_score": 0,
+      "started": 1652854842
+    },
+    "3683": {
+      "assaulting_faction": 48413,
+      "defending_faction": 46270,
+      "assaulting_score": 129.18,
+      "defending_score": 0,
+      "started": 1657913878
+    },
+    "3708": {
+      "assaulting_faction": 48645,
+      "defending_faction": 48071,
+      "assaulting_score": 114,
+      "defending_score": 0,
+      "started": 1659360987
+    },
+    "3766": {
+      "assaulting_faction": 48676,
+      "defending_faction": 42786,
+      "assaulting_score": 6.96,
+      "defending_score": 0,
+      "started": 1661477403
+    },
+    "3881": {
+      "assaulting_faction": 48930,
+      "defending_faction": 44456,
+      "assaulting_score": 24.25,
+      "defending_score": 0,
+      "started": 1667879938
+    },
+    "3915": {
+      "assaulting_faction": 49065,
+      "defending_faction": 41499,
+      "assaulting_score": 0,
+      "defending_score": 0,
+      "started": 1669956454
+    },
+    "3925": {
+      "assaulting_faction": 45171,
+      "defending_faction": 42485,
+      "assaulting_score": 51.1,
+      "defending_score": 2.08,
+      "started": 1670399719
+    },
+    "3940": {
+      "assaulting_faction": 49188,
+      "defending_faction": 40931,
+      "assaulting_score": 60.15,
+      "defending_score": 0,
+      "started": 1671252117
+    },
+    "3991": {
+      "assaulting_faction": 49034,
+      "defending_faction": 44537,
+      "assaulting_score": 40.14,
+      "defending_score": 0,
+      "started": 1673962328
+    },
+    "4013": {
+      "assaulting_faction": 49359,
+      "defending_faction": 44342,
+      "assaulting_score": 27.12,
+      "defending_score": 0,
+      "started": 1675126213
+    },
+    "4030": {
+      "assaulting_faction": 48434,
+      "defending_faction": 42786,
+      "assaulting_score": 31.2,
+      "defending_score": 0,
+      "started": 1675569414
+    },
+    "4137": {
+      "assaulting_faction": 49598,
+      "defending_faction": 45389,
+      "assaulting_score": 19.97,
+      "defending_score": 0,
+      "started": 1680204155
+    },
+    "4153": {
+      "assaulting_faction": 49439,
+      "defending_faction": 44269,
+      "assaulting_score": 53.24,
+      "defending_score": 0,
+      "started": 1680792287
+    },
+    "4221": {
+      "assaulting_faction": 48721,
+      "defending_faction": 37015,
+      "assaulting_score": 0,
+      "defending_score": 0,
+      "started": 1682887378
+    },
+    "4267": {
+      "assaulting_faction": 49885,
+      "defending_faction": 45389,
+      "assaulting_score": 1.94,
+      "defending_score": 0,
+      "started": 1685083755
+    },
+    "4274": {
+      "assaulting_faction": 44390,
+      "defending_faction": 38295,
+      "assaulting_score": 1887.78,
+      "defending_score": 0,
+      "started": 1685338956
+    },
+    "4337": {
+      "assaulting_faction": 49488,
+      "defending_faction": 29769,
+      "assaulting_score": 3061.69,
+      "defending_score": 0,
+      "started": 1687785833
+    },
+    "4602": {
+      "assaulting_faction": 49853,
+      "defending_faction": 50164,
+      "assaulting_score": 24.48,
+      "defending_score": 12.47,
+      "started": 1693146814
+    },
+    "4633": {
+      "assaulting_faction": 50436,
+      "defending_faction": 41720,
+      "assaulting_score": 177.13,
+      "defending_score": 0,
+      "started": 1693680959
+    },
+    "4642": {
+      "assaulting_faction": 50265,
+      "defending_faction": 37270,
+      "assaulting_score": 482.44,
+      "defending_score": 0,
+      "started": 1693803218
+    },
+    "4725": {
+      "assaulting_faction": 44344,
+      "defending_faction": 40864,
+      "assaulting_score": 739.26,
+      "defending_score": 0,
+      "started": 1694631053
+    },
+    "4742": {
+      "assaulting_faction": 49778,
+      "defending_faction": 46620,
+      "assaulting_score": 42.1,
+      "defending_score": 219.68,
+      "started": 1695236982
+    },
+    "4869": {
+      "assaulting_faction": 49561,
+      "defending_faction": 42646,
+      "assaulting_score": 1663.92,
+      "defending_score": 0,
+      "started": 1699977488
+    },
+    "4898": {
+      "assaulting_faction": 37155,
+      "defending_faction": 40427,
+      "assaulting_score": 3105.38,
+      "defending_score": 0,
+      "started": 1700615494
+    },
+    "4951": {
+      "assaulting_faction": 49739,
+      "defending_faction": 43224,
+      "assaulting_score": 692.29,
+      "defending_score": 0,
+      "started": 1702457690
+    },
+    "5065": {
+      "assaulting_faction": 50901,
+      "defending_faction": 29056,
+      "assaulting_score": 213.52,
+      "defending_score": 0,
+      "started": 1706571300
+    },
+    "5088": {
+      "assaulting_faction": 50831,
+      "defending_faction": 45108,
+      "assaulting_score": 103.95,
+      "defending_score": 0,
+      "started": 1707686512
+    },
+    "5093": {
+      "assaulting_faction": 49330,
+      "defending_faction": 46440,
+      "assaulting_score": 67.79,
+      "defending_score": 0,
+      "started": 1707796820
+    },
+    "5136": {
+      "assaulting_faction": 51270,
+      "defending_faction": 48676,
+      "assaulting_score": 163.52,
+      "defending_score": 0,
+      "started": 1709107303
+    },
+    "5161": {
+      "assaulting_faction": 49477,
+      "defending_faction": 50397,
+      "assaulting_score": 1741.58,
+      "defending_score": 0,
+      "started": 1709509125
+    },
+    "5190": {
+      "assaulting_faction": 50679,
+      "defending_faction": 50564,
+      "assaulting_score": 1669.09,
+      "defending_score": 2.79,
+      "started": 1710258178
+    },
+    "5193": {
+      "assaulting_faction": 51353,
+      "defending_faction": 39651,
+      "assaulting_score": 861.57,
+      "defending_score": 0,
+      "started": 1710338386
+    },
+    "5254": {
+      "assaulting_faction": 50054,
+      "defending_faction": 42821,
+      "assaulting_score": 3294.45,
+      "defending_score": 0,
+      "started": 1711927324
+    },
+    "5295": {
+      "assaulting_faction": 49380,
+      "defending_faction": 38929,
+      "assaulting_score": 185.56,
+      "defending_score": 0,
+      "started": 1713199768
+    },
+    "5296": {
+      "assaulting_faction": 41342,
+      "defending_faction": 38929,
+      "assaulting_score": 315.08,
+      "defending_score": 0,
+      "started": 1713200616
+    },
+    "5302": {
+      "assaulting_faction": 51634,
+      "defending_faction": 44425,
+      "assaulting_score": 130.5,
+      "defending_score": 0,
+      "started": 1713335324
+    },
+    "5319": {
+      "assaulting_faction": 51291,
+      "defending_faction": 36859,
+      "assaulting_score": 100.1,
+      "defending_score": 0,
+      "started": 1713877914
+    },
+    "5328": {
+      "assaulting_faction": 8592,
+      "defending_faction": 37124,
+      "assaulting_score": 134.66,
+      "defending_score": 0,
+      "started": 1714015407
+    },
+    "5339": {
+      "assaulting_faction": 50512,
+      "defending_faction": 50405,
+      "assaulting_score": 43.15,
+      "defending_score": 0,
+      "started": 1714274417
+    },
+    "5342": {
+      "assaulting_faction": 5431,
+      "defending_faction": 37788,
+      "assaulting_score": 167.5,
+      "defending_score": 0,
+      "started": 1714335626
+    },
+    "5344": {
+      "assaulting_faction": 51723,
+      "defending_faction": 37270,
+      "assaulting_score": 278.39,
+      "defending_score": 0,
+      "started": 1714401945
+    },
+    "5347": {
+      "assaulting_faction": 51471,
+      "defending_faction": 43880,
+      "assaulting_score": 40.98,
+      "defending_score": 0,
+      "started": 1714482782
+    },
+    "5350": {
+      "assaulting_faction": 51188,
+      "defending_faction": 9686,
+      "assaulting_score": 6.9,
+      "defending_score": 94.74,
+      "started": 1714544761
+    },
+    "5351": {
+      "assaulting_faction": 35090,
+      "defending_faction": 51188,
+      "assaulting_score": 79.94,
+      "defending_score": 0,
+      "started": 1714566890
+    },
+    "5352": {
+      "assaulting_faction": 51030,
+      "defending_faction": 51228,
+      "assaulting_score": 157.62,
+      "defending_score": 0,
+      "started": 1714599534
+    },
+    "5355": {
+      "assaulting_faction": 51647,
+      "defending_faction": 51750,
+      "assaulting_score": 103.71,
+      "defending_score": 67.2,
+      "started": 1714711743
+    },
+    "5356": {
+      "assaulting_faction": 50230,
+      "defending_faction": 39522,
+      "assaulting_score": 72.38,
+      "defending_score": 0,
+      "started": 1714750882
+    },
+    "5358": {
+      "assaulting_faction": 50231,
+      "defending_faction": 48182,
+      "assaulting_score": 14.8,
+      "defending_score": 0,
+      "started": 1714779380
+    },
+    "5359": {
+      "assaulting_faction": 51557,
+      "defending_faction": 39651,
+      "assaulting_score": 8,
+      "defending_score": 0,
+      "started": 1714789286
+    }
+  }
+}

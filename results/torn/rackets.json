@@ -1,0 +1,1372 @@
+{
+  "rackets": {
+    "HZB": {
+      "name": "Protection Racket III",
+      "level": 3,
+      "reward": "$20,000,000 daily",
+      "created": 1580018223,
+      "changed": 1713448623,
+      "faction": 30820
+    },
+    "THC": {
+      "name": "Cannabis Factory IV",
+      "level": 4,
+      "reward": "200x Cannabis daily",
+      "created": 1591966624,
+      "changed": 1712908622,
+      "faction": 14686
+    },
+    "IFE": {
+      "name": "Bootleg Distillery V",
+      "level": 5,
+      "reward": "160x Bottle of Moonshine daily",
+      "created": 1592153824,
+      "changed": 1712509023,
+      "faction": 18736
+    },
+    "ICF": {
+      "name": "Cannabis Factory II",
+      "level": 2,
+      "reward": "50x Cannabis daily",
+      "created": 1593845824,
+      "changed": 1714694222,
+      "faction": 8706
+    },
+    "OAE": {
+      "name": "Arms Dealer II",
+      "level": 2,
+      "reward": "50x Smoke Grenade daily",
+      "created": 1595872623,
+      "changed": 1712447822,
+      "faction": 14365
+    },
+    "DJC": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "40x Melatonin daily",
+      "created": 1597604224,
+      "changed": 1709863023,
+      "faction": 1149
+    },
+    "KXD": {
+      "name": "Money Launderer V",
+      "level": 5,
+      "reward": "$160,000,000 daily",
+      "created": 1598893024,
+      "changed": 1712609822,
+      "faction": 8085
+    },
+    "SKB": {
+      "name": "Street Surgeon V",
+      "level": 5,
+      "reward": "400x Morphine daily",
+      "created": 1599530224,
+      "changed": 1708063023,
+      "faction": 26312
+    },
+    "EOF": {
+      "name": "Truck Stop IV",
+      "level": 4,
+      "reward": "80x Can of Red Cow daily",
+      "created": 1606615024,
+      "changed": 1713286623,
+      "faction": 11747
+    },
+    "TDF": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Xanax daily",
+      "created": 1608325024,
+      "changed": 1714467423,
+      "faction": 9055
+    },
+    "WZD": {
+      "name": "Bordello III",
+      "level": 3,
+      "reward": "20x Erotic DVD daily",
+      "created": 1612857426,
+      "changed": 1714629423,
+      "faction": 27312
+    },
+    "RDF": {
+      "name": "Drug Lab IV",
+      "level": 4,
+      "reward": "200x Xanax daily",
+      "created": 1616245025,
+      "changed": 1714478222,
+      "faction": 11581
+    },
+    "LBC": {
+      "name": "Arms Dealer I",
+      "level": 1,
+      "reward": "25x Flash Grenade daily",
+      "created": 1617796626,
+      "changed": 1713171423,
+      "faction": 9953
+    },
+    "JND": {
+      "name": "Street Surgeon II",
+      "level": 2,
+      "reward": "10x Melatonin daily",
+      "created": 1619989026,
+      "changed": 1713185823,
+      "faction": 40420
+    },
+    "HVE": {
+      "name": "Street Surgeon II",
+      "level": 2,
+      "reward": "10x Neumune Tablet daily",
+      "created": 1620572226,
+      "changed": 1714150623,
+      "faction": 42125
+    },
+    "PJB": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Ecstasy daily",
+      "created": 1624003024,
+      "changed": 1713815823,
+      "faction": 8062
+    },
+    "JQD": {
+      "name": "Drug Lab V",
+      "level": 5,
+      "reward": "400x Ecstasy daily",
+      "created": 1624517824,
+      "changed": 1711583823,
+      "faction": 14365
+    },
+    "KFE": {
+      "name": "Point Broker IV",
+      "level": 4,
+      "reward": "4,000x Points daily",
+      "created": 1625245025,
+      "changed": 1713812223,
+      "faction": 18736
+    },
+    "EHF": {
+      "name": "Protection Racket III",
+      "level": 3,
+      "reward": "$20,000,000 daily",
+      "created": 1626091025,
+      "changed": 1714240623,
+      "faction": 6895
+    },
+    "UAB": {
+      "name": "Drug Lab V",
+      "level": 5,
+      "reward": "400x Ecstasy daily",
+      "created": 1626753426,
+      "changed": 1708477023,
+      "faction": 15655
+    },
+    "ZDE": {
+      "name": "Arms Dealer V",
+      "level": 5,
+      "reward": "400x Flash Grenade daily",
+      "created": 1627451824,
+      "changed": 1709506622,
+      "faction": 8103
+    },
+    "SIA": {
+      "name": "Point Broker III",
+      "level": 3,
+      "reward": "2,000x Points daily",
+      "created": 1629111425,
+      "changed": 1714687023,
+      "faction": 7709
+    },
+    "NHE": {
+      "name": "Money Launderer IV",
+      "level": 4,
+      "reward": "$80,000,000 daily",
+      "created": 1629950225,
+      "changed": 1714438622,
+      "faction": 12863
+    },
+    "PJE": {
+      "name": "Illegal Casino V",
+      "level": 5,
+      "reward": "$400,000,000 daily",
+      "created": 1630947426,
+      "changed": 1714478222,
+      "faction": 11581
+    },
+    "JBA": {
+      "name": "Bordello III",
+      "level": 3,
+      "reward": "20x Erotic DVD daily",
+      "created": 1633147025,
+      "changed": 1711040223,
+      "faction": 36691
+    },
+    "QCF": {
+      "name": "Cannabis Factory IV",
+      "level": 4,
+      "reward": "200x Cannabis daily",
+      "created": 1637510224,
+      "changed": 1714118222,
+      "faction": 8954
+    },
+    "LNC": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "200x Morphine daily",
+      "created": 1638032224,
+      "changed": 1713578222,
+      "faction": 22781
+    },
+    "CDE": {
+      "name": "Cannabis Factory II",
+      "level": 2,
+      "reward": "50x Cannabis daily",
+      "created": 1641794224,
+      "changed": 1711666623,
+      "faction": 11539
+    },
+    "HPD": {
+      "name": "Bootleg Distillery V",
+      "level": 5,
+      "reward": "160x Bottle of Moonshine daily",
+      "created": 1642183025,
+      "changed": 1713340623,
+      "faction": 10820
+    },
+    "KBD": {
+      "name": "Arms Dealer V",
+      "level": 5,
+      "reward": "400x Smoke Grenade daily",
+      "created": 1642838224,
+      "changed": 1712764622,
+      "faction": 231
+    },
+    "WSD": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1643342225,
+      "changed": 1714345023,
+      "faction": 2013
+    },
+    "TSB": {
+      "name": "Protection Racket II",
+      "level": 2,
+      "reward": "$10,000,000 daily",
+      "created": 1644350224,
+      "changed": 1714179422,
+      "faction": 8954
+    },
+    "VRE": {
+      "name": "Arms Dealer IV",
+      "level": 4,
+      "reward": "200x Tear Gas daily",
+      "created": 1644685024,
+      "changed": 1710485823,
+      "faction": 30085
+    },
+    "RKD": {
+      "name": "Truck Stop V",
+      "level": 5,
+      "reward": "160x Can of Munster daily",
+      "created": 1646737024,
+      "changed": 1712876223,
+      "faction": 8336
+    },
+    "QZE": {
+      "name": "Bootleg Distillery II",
+      "level": 2,
+      "reward": "20x Bottle of Moonshine daily",
+      "created": 1649091423,
+      "changed": 1712951823,
+      "faction": 6731
+    },
+    "NJE": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "200x Morphine daily",
+      "created": 1650200224,
+      "changed": 1713448623,
+      "faction": 366
+    },
+    "RQD": {
+      "name": "Cannabis Factory II",
+      "level": 2,
+      "reward": "50x Cannabis daily",
+      "created": 1650459424,
+      "changed": 1713250622,
+      "faction": 22295
+    },
+    "YCD": {
+      "name": "Arms Dealer III",
+      "level": 3,
+      "reward": "100x HEG daily",
+      "created": 1651129024,
+      "changed": 1713067023,
+      "faction": 366
+    },
+    "KSD": {
+      "name": "Street Surgeon V",
+      "level": 5,
+      "reward": "400x Morphine daily",
+      "created": 1651550224,
+      "changed": 1703548622,
+      "faction": 13502
+    },
+    "OGD": {
+      "name": "Point Broker IV",
+      "level": 4,
+      "reward": "4,000x Points daily",
+      "created": 1652187424,
+      "changed": 1712595423,
+      "faction": 11581
+    },
+    "AHC": {
+      "name": "Street Surgeon III",
+      "level": 3,
+      "reward": "20x Epinephrine daily",
+      "created": 1654253826,
+      "changed": 1714611423,
+      "faction": 33007
+    },
+    "HCD": {
+      "name": "Cannabis Factory IV",
+      "level": 4,
+      "reward": "200x Cannabis daily",
+      "created": 1655467024,
+      "changed": 1714507023,
+      "faction": 366
+    },
+    "JWD": {
+      "name": "Arms Dealer I",
+      "level": 1,
+      "reward": "25x Molotov Cocktail daily",
+      "created": 1655956625,
+      "changed": 1713808622,
+      "faction": 22295
+    },
+    "XSD": {
+      "name": "Drug Lab IV",
+      "level": 4,
+      "reward": "200x Xanax daily",
+      "created": 1657385824,
+      "changed": 1709837823,
+      "faction": 2013
+    },
+    "DHF": {
+      "name": "Cannabis Factory I",
+      "level": 1,
+      "reward": "25x Cannabis daily",
+      "created": 1658455024,
+      "changed": 1709981822,
+      "faction": 6895
+    },
+    "BMD": {
+      "name": "Drug Lab II",
+      "level": 2,
+      "reward": "50x Xanax daily",
+      "created": 1658786225,
+      "changed": 1713592622,
+      "faction": 8706
+    },
+    "DJE": {
+      "name": "Protection Racket V",
+      "level": 5,
+      "reward": "$80,000,000 daily",
+      "created": 1659499025,
+      "changed": 1708120623,
+      "faction": 8867
+    },
+    "VOC": {
+      "name": "Truck Stop III",
+      "level": 3,
+      "reward": "40x Can of Red Cow daily",
+      "created": 1659769024,
+      "changed": 1706317022,
+      "faction": 14760
+    },
+    "KKE": {
+      "name": "Drug Lab IV",
+      "level": 4,
+      "reward": "200x Ecstasy daily",
+      "created": 1660805824,
+      "changed": 1713452223,
+      "faction": 27312
+    },
+    "XBD": {
+      "name": "Point Broker V",
+      "level": 5,
+      "reward": "8,000x Points daily",
+      "created": 1663891024,
+      "changed": 1713916623,
+      "faction": 11747
+    },
+    "GHB": {
+      "name": "Money Launderer II",
+      "level": 2,
+      "reward": "$20,000,000 daily",
+      "created": 1664117825,
+      "changed": 1710305823,
+      "faction": 7709
+    },
+    "UJD": {
+      "name": "Drug Lab IV",
+      "level": 4,
+      "reward": "200x Xanax daily",
+      "created": 1665633425,
+      "changed": 1713236222,
+      "faction": 11747
+    },
+    "JUE": {
+      "name": "Truck Stop IV",
+      "level": 4,
+      "reward": "80x Can of Taurine Elite daily",
+      "created": 1666774624,
+      "changed": 1714316223,
+      "faction": 16282
+    },
+    "HZD": {
+      "name": "Point Broker III",
+      "level": 3,
+      "reward": "2,000x Points daily",
+      "created": 1667325424,
+      "changed": 1711803423,
+      "faction": 18569
+    },
+    "SLE": {
+      "name": "Protection Racket III",
+      "level": 3,
+      "reward": "$20,000,000 daily",
+      "created": 1667764625,
+      "changed": 1712635023,
+      "faction": 9100
+    },
+    "MZB": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Taurine Elite daily",
+      "created": 1667995027,
+      "changed": 1712624223,
+      "faction": 10818
+    },
+    "QGE": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "200x Morphine daily",
+      "created": 1668668225,
+      "changed": 1714618622,
+      "faction": 15120
+    },
+    "NXD": {
+      "name": "Street Surgeon III",
+      "level": 3,
+      "reward": "100x Morphine daily",
+      "created": 1669003025,
+      "changed": 1712159822,
+      "faction": 89
+    },
+    "ZWD": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1669060624,
+      "changed": 1714672623,
+      "faction": 22492
+    },
+    "RIA": {
+      "name": "Protection Racket II",
+      "level": 2,
+      "reward": "$10,000,000 daily",
+      "created": 1671872225,
+      "changed": 1713344223,
+      "faction": 27902
+    },
+    "NSC": {
+      "name": "Money Launderer II",
+      "level": 2,
+      "reward": "$20,000,000 daily",
+      "created": 1672041424,
+      "changed": 1713239823,
+      "faction": 9055
+    },
+    "DTE": {
+      "name": "Street Surgeon II",
+      "level": 2,
+      "reward": "50x Morphine daily",
+      "created": 1672340225,
+      "changed": 1714769823,
+      "faction": 14686
+    },
+    "LHE": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Munster daily",
+      "created": 1672426625,
+      "changed": 1712048222,
+      "faction": 33097
+    },
+    "SSD": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Ecstasy daily",
+      "created": 1673765825,
+      "changed": 1713092222,
+      "faction": 2013
+    },
+    "TVD": {
+      "name": "Truck Stop III",
+      "level": 3,
+      "reward": "40x Can of Red Cow daily",
+      "created": 1675054625,
+      "changed": 1714211823,
+      "faction": 22492
+    },
+    "WSG": {
+      "name": "Street Surgeon III",
+      "level": 3,
+      "reward": "20x Epinephrine daily",
+      "created": 1675378625,
+      "changed": 1714712223,
+      "faction": 16312
+    },
+    "RWC": {
+      "name": "Cannabis Factory V",
+      "level": 5,
+      "reward": "400x Cannabis daily",
+      "created": 1675396625,
+      "changed": 1710385022,
+      "faction": 3241
+    },
+    "KVG": {
+      "name": "Arms Dealer III",
+      "level": 3,
+      "reward": "100x Flash Grenade daily",
+      "created": 1675483025,
+      "changed": 1712213822,
+      "faction": 8317
+    },
+    "CRG": {
+      "name": "Illegal Casino V",
+      "level": 5,
+      "reward": "$400,000,000 daily",
+      "created": 1676325425,
+      "changed": 1713520623,
+      "faction": 8422
+    },
+    "WAD": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1677452224,
+      "changed": 1712077023,
+      "faction": 7969
+    },
+    "KGF": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "40x Tyrosine daily",
+      "created": 1677513425,
+      "changed": 1713135422,
+      "faction": 14581
+    },
+    "UVB": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1677538625,
+      "changed": 1714010223,
+      "faction": 15644
+    },
+    "LFB": {
+      "name": "Bordello III",
+      "level": 3,
+      "reward": "20x Erotic DVD daily",
+      "created": 1678291024,
+      "changed": 1713499022,
+      "faction": 37530
+    },
+    "DZC": {
+      "name": "Arms Dealer V",
+      "level": 5,
+      "reward": "400x Tear Gas daily",
+      "created": 1678334225,
+      "changed": 1714273023,
+      "faction": 37093
+    },
+    "FNB": {
+      "name": "Bordello II",
+      "level": 2,
+      "reward": "10x Erotic DVD daily",
+      "created": 1678582624,
+      "changed": 1708120623,
+      "faction": 8954
+    },
+    "ISD": {
+      "name": "Arms Dealer V",
+      "level": 5,
+      "reward": "400x Flash Grenade daily",
+      "created": 1678636625,
+      "changed": 1700575022,
+      "faction": 2013
+    },
+    "QGC": {
+      "name": "Arms Dealer IV",
+      "level": 4,
+      "reward": "200x HEG daily",
+      "created": 1679799425,
+      "changed": 1714121822,
+      "faction": 14821
+    },
+    "WBD": {
+      "name": "Money Launderer IV",
+      "level": 4,
+      "reward": "$80,000,000 daily",
+      "created": 1681606625,
+      "changed": 1714283823,
+      "faction": 8085
+    },
+    "FLC": {
+      "name": "Money Launderer II",
+      "level": 2,
+      "reward": "$20,000,000 daily",
+      "created": 1681819024,
+      "changed": 1713967022,
+      "faction": 525
+    },
+    "MJC": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1682755025,
+      "changed": 1713938223,
+      "faction": 12863
+    },
+    "KXE": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1683892624,
+      "changed": 1714377423,
+      "faction": 33097
+    },
+    "FDE": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1684418225,
+      "changed": 1713538623,
+      "faction": 89
+    },
+    "BJE": {
+      "name": "Bootleg Distillery IV",
+      "level": 4,
+      "reward": "80x Bottle of Moonshine daily",
+      "created": 1684699024,
+      "changed": 1713455823,
+      "faction": 8336
+    },
+    "NZD": {
+      "name": "Truck Stop V",
+      "level": 5,
+      "reward": "160x Can of Red Cow daily",
+      "created": 1685275022,
+      "changed": 1710309423,
+      "faction": 11747
+    },
+    "NJC": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Ecstasy daily",
+      "created": 1686668224,
+      "changed": 1713574623,
+      "faction": 0
+    },
+    "XJD": {
+      "name": "Drug Lab IV",
+      "level": 4,
+      "reward": "200x Ecstasy daily",
+      "created": 1687661823,
+      "changed": 1711490222,
+      "faction": 8336
+    },
+    "QKD": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1688770623,
+      "changed": 1714784223,
+      "faction": 478
+    },
+    "EDD": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1689523024,
+      "changed": 1714496223,
+      "faction": 9533
+    },
+    "ZMB": {
+      "name": "Arms Dealer I",
+      "level": 1,
+      "reward": "25x Flash Grenade daily",
+      "created": 1690142223,
+      "changed": 1713290223,
+      "faction": 11796
+    },
+    "PXD": {
+      "name": "Bordello IV",
+      "level": 4,
+      "reward": "40x Erotic DVD daily",
+      "created": 1690239424,
+      "changed": 1713711423,
+      "faction": 42125
+    },
+    "HFD": {
+      "name": "Point Broker II",
+      "level": 2,
+      "reward": "1,000x Points daily",
+      "created": 1690397823,
+      "changed": 1714237023,
+      "faction": 11747
+    },
+    "CBD": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1690667823,
+      "changed": 1711159023,
+      "faction": 89
+    },
+    "SFC": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Xanax daily",
+      "created": 1690819023,
+      "changed": 1712685422,
+      "faction": 14821
+    },
+    "AIA": {
+      "name": "Drug Lab II",
+      "level": 2,
+      "reward": "50x Ecstasy daily",
+      "created": 1691859423,
+      "changed": 1710968223,
+      "faction": 37530
+    },
+    "AVG": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Red Cow daily",
+      "created": 1693605427,
+      "changed": 1711807023,
+      "faction": 8151
+    },
+    "UIC": {
+      "name": "Arms Dealer II",
+      "level": 2,
+      "reward": "50x Molotov Cocktail daily",
+      "created": 1693774627,
+      "changed": 1713632223,
+      "faction": 9041
+    },
+    "NAE": {
+      "name": "Drug Lab V",
+      "level": 5,
+      "reward": "400x Xanax daily",
+      "created": 1693879028,
+      "changed": 1712473023,
+      "faction": 937
+    },
+    "IFC": {
+      "name": "Truck Stop III",
+      "level": 3,
+      "reward": "40x Can of Red Cow daily",
+      "created": 1694278627,
+      "changed": 1714571823,
+      "faction": 14686
+    },
+    "GNC": {
+      "name": "Illegal Casino II",
+      "level": 2,
+      "reward": "$50,000,000 daily",
+      "created": 1695491827,
+      "changed": 1712354223,
+      "faction": 14760
+    },
+    "MME": {
+      "name": "Cannabis Factory IV",
+      "level": 4,
+      "reward": "200x Cannabis daily",
+      "created": 1696006627,
+      "changed": 1712905023,
+      "faction": 16040
+    },
+    "UEC": {
+      "name": "Illegal Casino II",
+      "level": 2,
+      "reward": "$50,000,000 daily",
+      "created": 1696107426,
+      "changed": 1714575422,
+      "faction": 33458
+    },
+    "ODD": {
+      "name": "Arms Dealer III",
+      "level": 3,
+      "reward": "100x Smoke Grenade daily",
+      "created": 1696395427,
+      "changed": 1714442223,
+      "faction": 9032
+    },
+    "YAE": {
+      "name": "Truck Stop IV",
+      "level": 4,
+      "reward": "80x Can of Taurine Elite daily",
+      "created": 1696658228,
+      "changed": 1709398623,
+      "faction": 20747
+    },
+    "MBA": {
+      "name": "Protection Racket III",
+      "level": 3,
+      "reward": "$20,000,000 daily",
+      "created": 1697479026,
+      "changed": 1712048222,
+      "faction": 8076
+    },
+    "WFD": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1697939823,
+      "changed": 1713020223,
+      "faction": 11581
+    },
+    "ITC": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Taurine Elite daily",
+      "created": 1698058623,
+      "changed": 1713247023,
+      "faction": 27223
+    },
+    "HJE": {
+      "name": "Protection Racket IV",
+      "level": 4,
+      "reward": "$40,000,000 daily",
+      "created": 1698551822,
+      "changed": 1712822223,
+      "faction": 1149
+    },
+    "ZCE": {
+      "name": "Cannabis Factory III",
+      "level": 3,
+      "reward": "100x Cannabis daily",
+      "created": 1698998222,
+      "changed": 1713999423,
+      "faction": 30009
+    },
+    "NLD": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "200x Morphine daily",
+      "created": 1699394222,
+      "changed": 1711735023,
+      "faction": 9305
+    },
+    "CKB": {
+      "name": "Bordello I",
+      "level": 1,
+      "reward": "5x Erotic DVD daily",
+      "created": 1699469822,
+      "changed": 1712519822,
+      "faction": 20465
+    },
+    "ZDD": {
+      "name": "Bordello II",
+      "level": 2,
+      "reward": "10x Erotic DVD daily",
+      "created": 1699909023,
+      "changed": 1711119422,
+      "faction": 25025
+    },
+    "WCD": {
+      "name": "Bootleg Distillery II",
+      "level": 2,
+      "reward": "20x Bottle of Moonshine daily",
+      "created": 1701147422,
+      "changed": 1713974222,
+      "faction": 11747
+    },
+    "VCC": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1701169022,
+      "changed": 1713261423,
+      "faction": 7935
+    },
+    "JAA": {
+      "name": "Protection Racket II",
+      "level": 2,
+      "reward": "$10,000,000 daily",
+      "created": 1701928622,
+      "changed": 1714301823,
+      "faction": 12894
+    },
+    "WZG": {
+      "name": "Street Surgeon IV",
+      "level": 4,
+      "reward": "200x Morphine daily",
+      "created": 1702097822,
+      "changed": 1713941822,
+      "faction": 23952
+    },
+    "ZIF": {
+      "name": "Money Launderer III",
+      "level": 3,
+      "reward": "$40,000,000 daily",
+      "created": 1702202222,
+      "changed": 1710179822,
+      "faction": 36691
+    },
+    "DWB": {
+      "name": "Arms Dealer II",
+      "level": 2,
+      "reward": "50x Molotov Cocktail daily",
+      "created": 1702209422,
+      "changed": 1714575422,
+      "faction": 8766
+    },
+    "OUD": {
+      "name": "Drug Lab III",
+      "level": 3,
+      "reward": "100x Xanax daily",
+      "created": 1702641422,
+      "changed": 1713596222,
+      "faction": 30009
+    },
+    "BCD": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Red Cow daily",
+      "created": 1702994222,
+      "changed": 1714510623,
+      "faction": 11747
+    },
+    "DPD": {
+      "name": "Truck Stop III",
+      "level": 3,
+      "reward": "40x Can of Red Cow daily",
+      "created": 1703321823,
+      "changed": 1713866223,
+      "faction": 11428
+    },
+    "MEC": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1703725023,
+      "changed": 1711205822,
+      "faction": 13377
+    },
+    "BRC": {
+      "name": "Money Launderer V",
+      "level": 5,
+      "reward": "$160,000,000 daily",
+      "created": 1704657423,
+      "changed": 1713149822,
+      "faction": 8706
+    },
+    "GZD": {
+      "name": "Cannabis Factory I",
+      "level": 1,
+      "reward": "25x Cannabis daily",
+      "created": 1704880623,
+      "changed": 1714741023,
+      "faction": 15120
+    },
+    "LBA": {
+      "name": "Money Launderer III",
+      "level": 3,
+      "reward": "$40,000,000 daily",
+      "created": 1705147023,
+      "changed": 1708239423,
+      "faction": 8076
+    },
+    "JIE": {
+      "name": "Bordello III",
+      "level": 3,
+      "reward": "20x Erotic DVD daily",
+      "created": 1705463823,
+      "changed": 1713243423,
+      "faction": 11581
+    },
+    "IMB": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Munster daily",
+      "created": 1705823823,
+      "changed": 1713815823,
+      "faction": 10741
+    },
+    "PSD": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Red Cow daily",
+      "created": 1706425023,
+      "changed": 1711277823,
+      "faction": 22492
+    },
+    "WYG": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1706554623,
+      "changed": 1714622223,
+      "faction": 21368
+    },
+    "HED": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Munster daily",
+      "created": 1706932623,
+      "changed": 1710363423,
+      "faction": 9689
+    },
+    "RJC": {
+      "name": "Protection Racket I",
+      "level": 1,
+      "reward": "$5,000,000 daily",
+      "created": 1706979423,
+      "changed": 1713797823,
+      "faction": 9100
+    },
+    "OBD": {
+      "name": "Truck Stop IV",
+      "level": 4,
+      "reward": "80x Can of Taurine Elite daily",
+      "created": 1707533823,
+      "changed": 1714103822,
+      "faction": 8085
+    },
+    "BUG": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "5x Ipecac Syrup daily",
+      "created": 1707569823,
+      "changed": 1713531423,
+      "faction": 10566
+    },
+    "GTG": {
+      "name": "Bootleg Distillery II",
+      "level": 2,
+      "reward": "20x Bottle of Moonshine daily",
+      "created": 1707656222,
+      "changed": 1710467822,
+      "faction": 15151
+    },
+    "MFD": {
+      "name": "Truck Stop III",
+      "level": 3,
+      "reward": "40x Can of Taurine Elite daily",
+      "created": 1707710223,
+      "changed": 1714237023,
+      "faction": 18736
+    },
+    "FAD": {
+      "name": "Protection Racket I",
+      "level": 1,
+      "reward": "$5,000,000 daily",
+      "created": 1708088223,
+      "changed": 1713506223,
+      "faction": 231
+    },
+    "ZPD": {
+      "name": "Bootleg Distillery III",
+      "level": 3,
+      "reward": "40x Bottle of Moonshine daily",
+      "created": 1708235823,
+      "changed": 1713477423,
+      "faction": 2013
+    },
+    "TIC": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Red Cow daily",
+      "created": 1708959422,
+      "changed": 1713355023,
+      "faction": 13665
+    },
+    "EFE": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1709542623,
+      "changed": 1714125422,
+      "faction": 18736
+    },
+    "TAE": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Red Cow daily",
+      "created": 1709567825,
+      "changed": 1713376623,
+      "faction": 937
+    },
+    "XOB": {
+      "name": "Money Launderer II",
+      "level": 2,
+      "reward": "$20,000,000 daily",
+      "created": 1709870223,
+      "changed": 1712926623,
+      "faction": 11796
+    },
+    "UME": {
+      "name": "Money Launderer I",
+      "level": 1,
+      "reward": "$10,000,000 daily",
+      "created": 1709938623,
+      "changed": 1713977822,
+      "faction": 13377
+    },
+    "HJC": {
+      "name": "Drug Lab II",
+      "level": 2,
+      "reward": "50x Ecstasy daily",
+      "created": 1710097022,
+      "changed": 1712624223,
+      "faction": 1149
+    },
+    "LXD": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1710154623,
+      "changed": 1710154623,
+      "faction": 11539
+    },
+    "EQC": {
+      "name": "Truck Stop II",
+      "level": 2,
+      "reward": "20x Can of Munster daily",
+      "created": 1710503822,
+      "changed": 1713142623,
+      "faction": 8468
+    },
+    "QCD": {
+      "name": "Drug Lab II",
+      "level": 2,
+      "reward": "50x Ecstasy daily",
+      "created": 1710907023,
+      "changed": 1713895022,
+      "faction": 9032
+    },
+    "IIA": {
+      "name": "Bootleg Distillery II",
+      "level": 2,
+      "reward": "20x Bottle of Moonshine daily",
+      "created": 1711065423,
+      "changed": 1713095823,
+      "faction": 11522
+    },
+    "KLE": {
+      "name": "Illegal Casino II",
+      "level": 2,
+      "reward": "$50,000,000 daily",
+      "created": 1711227422,
+      "changed": 1712858223,
+      "faction": 6974
+    },
+    "ODC": {
+      "name": "Bootleg Distillery II",
+      "level": 2,
+      "reward": "20x Bottle of Moonshine daily",
+      "created": 1711429023,
+      "changed": 1713707823,
+      "faction": 18597
+    },
+    "RMB": {
+      "name": "Street Surgeon II",
+      "level": 2,
+      "reward": "10x Serotonin daily",
+      "created": 1711943823,
+      "changed": 1713776223,
+      "faction": 20501
+    },
+    "WOE": {
+      "name": "Bordello II",
+      "level": 2,
+      "reward": "10x Erotic DVD daily",
+      "created": 1711972623,
+      "changed": 1714636623,
+      "faction": 27312
+    },
+    "VQC": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Red Cow daily",
+      "created": 1712120222,
+      "changed": 1712120222,
+      "faction": 8468
+    },
+    "RJD": {
+      "name": "Illegal Casino II",
+      "level": 2,
+      "reward": "$50,000,000 daily",
+      "created": 1712491022,
+      "changed": 1713956223,
+      "faction": 8336
+    },
+    "UZC": {
+      "name": "Street Surgeon II",
+      "level": 2,
+      "reward": "50x Morphine daily",
+      "created": 1712951823,
+      "changed": 1714424223,
+      "faction": 37498
+    },
+    "VIA": {
+      "name": "Protection Racket I",
+      "level": 1,
+      "reward": "$5,000,000 daily",
+      "created": 1713128222,
+      "changed": 1713128222,
+      "faction": 30584
+    },
+    "ITE": {
+      "name": "Truck Stop I",
+      "level": 1,
+      "reward": "10x Can of Munster daily",
+      "created": 1713175023,
+      "changed": 1713175023,
+      "faction": 41775
+    },
+    "BSC": {
+      "name": "Illegal Casino I",
+      "level": 1,
+      "reward": "$25,000,000 daily",
+      "created": 1713283022,
+      "changed": 1713283022,
+      "faction": 27223
+    },
+    "TGC": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "25x Morphine daily",
+      "created": 1713733023,
+      "changed": 1713733023,
+      "faction": 14686
+    },
+    "ZHC": {
+      "name": "Bordello I",
+      "level": 1,
+      "reward": "5x Erotic DVD daily",
+      "created": 1713916623,
+      "changed": 1713916623,
+      "faction": 13665
+    },
+    "QMC": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "25x Morphine daily",
+      "created": 1713959823,
+      "changed": 1713959823,
+      "faction": 12863
+    },
+    "BBA": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "5x Melatonin daily",
+      "created": 1714006623,
+      "changed": 1714006623,
+      "faction": 8076
+    },
+    "APC": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1714010223,
+      "changed": 1714010223,
+      "faction": 15929
+    },
+    "IAA": {
+      "name": "Bootleg Distillery I",
+      "level": 1,
+      "reward": "10x Bottle of Moonshine daily",
+      "created": 1714067823,
+      "changed": 1714067823,
+      "faction": 12894
+    },
+    "PAB": {
+      "name": "Protection Racket I",
+      "level": 1,
+      "reward": "$5,000,000 daily",
+      "created": 1714078623,
+      "changed": 1714078623,
+      "faction": 10960
+    },
+    "SQE": {
+      "name": "Arms Dealer I",
+      "level": 1,
+      "reward": "25x Smoke Grenade daily",
+      "created": 1714129023,
+      "changed": 1714129023,
+      "faction": 26312
+    },
+    "OZE": {
+      "name": "Drug Lab I",
+      "level": 1,
+      "reward": "25x Ecstasy daily",
+      "created": 1714247822,
+      "changed": 1714247822,
+      "faction": 6731
+    },
+    "XZC": {
+      "name": "Drug Lab I",
+      "level": 1,
+      "reward": "25x Xanax daily",
+      "created": 1714255023,
+      "changed": 1714255023,
+      "faction": 8811
+    },
+    "GME": {
+      "name": "Bootleg Distillery I",
+      "level": 1,
+      "reward": "10x Bottle of Moonshine daily",
+      "created": 1714283823,
+      "changed": 1714283823,
+      "faction": 29865
+    },
+    "GTE": {
+      "name": "Point Broker I",
+      "level": 1,
+      "reward": "500x Points daily",
+      "created": 1714399023,
+      "changed": 1714399023,
+      "faction": 41775
+    },
+    "FRE": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "25x Morphine daily",
+      "created": 1714499823,
+      "changed": 1714499823,
+      "faction": 9953
+    },
+    "JDD": {
+      "name": "Arms Dealer I",
+      "level": 1,
+      "reward": "25x Tear Gas daily",
+      "created": 1714586223,
+      "changed": 1714586223,
+      "faction": 25025
+    },
+    "LQE": {
+      "name": "Street Surgeon I",
+      "level": 1,
+      "reward": "5x Ipecac Syrup daily",
+      "created": 1714787823,
+      "changed": 1714787823,
+      "faction": 0
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "dirtybombs": [
+    {
+      "planted": 1714309601,
+      "detonated": 1714316465,
+      "injured": 721,
+      "respect": 411674,
+      "faction": 8836,
+      "user": 459981
+    },
+    {
+      "planted": 1693407593,
+      "detonated": 1693411273,
+      "injured": 613,
+      "respect": 616637,
+      "faction": 8706,
+      "user": null
+    },
+    {
+      "planted": 1691690240,
+      "detonated": 1691694066,
+      "injured": 687,
+      "respect": 526023,
+      "faction": 2013,
+      "user": 733751
+    },
+    {
+      "planted": 1691247580,
+      "detonated": 1691251266,
+      "injured": 595,
+      "respect": 619707,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1691195175,
+      "detonated": 1691200866,
+      "injured": 505,
+      "respect": 516366,
+      "faction": 7709,
+      "user": null
+    },
+    {
+      "planted": 1691017186,
+      "detonated": 1691020866,
+      "injured": 607,
+      "respect": 586404,
+      "faction": 13784,
+      "user": null
+    },
+    {
+      "planted": 1690163951,
+      "detonated": 1690167666,
+      "injured": 522,
+      "respect": 697542,
+      "faction": 231,
+      "user": null
+    },
+    {
+      "planted": 1687554069,
+      "detonated": 1687561266,
+      "injured": 670,
+      "respect": 555666,
+      "faction": 14365,
+      "user": 108922
+    },
+    {
+      "planted": 1687114777,
+      "detonated": 1687118465,
+      "injured": 581,
+      "respect": 614314,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1679090288,
+      "detonated": 1679094068,
+      "injured": 624,
+      "respect": 633363,
+      "faction": 8336,
+      "user": 1846075
+    },
+    {
+      "planted": 1677992396,
+      "detonated": 1677996067,
+      "injured": 424,
+      "respect": 536296,
+      "faction": 7835,
+      "user": 1517799
+    },
+    {
+      "planted": 1676212599,
+      "detonated": 1676217667,
+      "injured": 531,
+      "respect": 651836,
+      "faction": 9533,
+      "user": 2352197
+    },
+    {
+      "planted": 1667084086,
+      "detonated": 1667088067,
+      "injured": 526,
+      "respect": 682074,
+      "faction": 230,
+      "user": 1357339
+    },
+    {
+      "planted": 1659388729,
+      "detonated": 1659394866,
+      "injured": 476,
+      "respect": 623935,
+      "faction": 2736,
+      "user": 2629602
+    },
+    {
+      "planted": 1647541321,
+      "detonated": 1647547266,
+      "injured": 488,
+      "respect": 587015,
+      "faction": 8336,
+      "user": 2650699
+    },
+    {
+      "planted": 1647445895,
+      "detonated": 1647450067,
+      "injured": 462,
+      "respect": 627278,
+      "faction": 16628,
+      "user": 2650699
+    },
+    {
+      "planted": 1647316330,
+      "detonated": 1647320466,
+      "injured": 342,
+      "respect": 451180,
+      "faction": 2013,
+      "user": 2650699
+    },
+    {
+      "planted": 1647218051,
+      "detonated": 1647223267,
+      "injured": 399,
+      "respect": 603832,
+      "faction": 2736,
+      "user": 2650699
+    },
+    {
+      "planted": 1647086478,
+      "detonated": 1647093668,
+      "injured": 474,
+      "respect": 617938,
+      "faction": 16312,
+      "user": 2650699
+    },
+    {
+      "planted": 1647045961,
+      "detonated": 1647050466,
+      "injured": 413,
+      "respect": 607652,
+      "faction": 230,
+      "user": 2650699
+    },
+    {
+      "planted": 1644257792,
+      "detonated": 1644264067,
+      "injured": 515,
+      "respect": 461108,
+      "faction": 2013,
+      "user": 2744348
+    },
+    {
+      "planted": 1637632752,
+      "detonated": 1637636466,
+      "injured": 394,
+      "respect": 593540,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1636531153,
+      "detonated": 1636534866,
+      "injured": 388,
+      "respect": 632058,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1620194109,
+      "detonated": 1620198067,
+      "injured": 350,
+      "respect": 475357,
+      "faction": 9533,
+      "user": null
+    },
+    {
+      "planted": 1619885847,
+      "detonated": 1619892068,
+      "injured": 494,
+      "respect": 433099,
+      "faction": 2013,
+      "user": 148747
+    },
+    {
+      "planted": 1619313398,
+      "detonated": 1619319667,
+      "injured": 405,
+      "respect": 513523,
+      "faction": 9533,
+      "user": null
+    },
+    {
+      "planted": 1619294384,
+      "detonated": 1619298067,
+      "injured": 541,
+      "respect": 480170,
+      "faction": 2013,
+      "user": 2119592
+    },
+    {
+      "planted": 1619017351,
+      "detonated": 1619024467,
+      "injured": 539,
+      "respect": 367117,
+      "faction": 7835,
+      "user": null
+    },
+    {
+      "planted": 1618773004,
+      "detonated": 1618779667,
+      "injured": 533,
+      "respect": 378565,
+      "faction": 7835,
+      "user": null
+    },
+    {
+      "planted": 1617116637,
+      "detonated": 1617123667,
+      "injured": 509,
+      "respect": 405373,
+      "faction": 7835,
+      "user": 1795241
+    },
+    {
+      "planted": 1616331247,
+      "detonated": 1616335268,
+      "injured": 508,
+      "respect": 404688,
+      "faction": 7835,
+      "user": null
+    },
+    {
+      "planted": 1616088596,
+      "detonated": 1616094066,
+      "injured": 486,
+      "respect": 438612,
+      "faction": 7835,
+      "user": null
+    },
+    {
+      "planted": 1615960341,
+      "detonated": 1615964467,
+      "injured": 376,
+      "respect": 527215,
+      "faction": 9533,
+      "user": null
+    },
+    {
+      "planted": 1615840732,
+      "detonated": 1615845667,
+      "injured": 516,
+      "respect": 446720,
+      "faction": 7835,
+      "user": null
+    },
+    {
+      "planted": 1615334975,
+      "detonated": 1615341667,
+      "injured": 455,
+      "respect": 496648,
+      "faction": 2013,
+      "user": 2003693
+    },
+    {
+      "planted": 1612217985,
+      "detonated": 1612224067,
+      "injured": 516,
+      "respect": 490502,
+      "faction": 2013,
+      "user": 722697
+    },
+    {
+      "planted": 1607610120,
+      "detonated": 1607616065,
+      "injured": 454,
+      "respect": 398650,
+      "faction": 3241,
+      "user": null
+    },
+    {
+      "planted": 1597349422,
+      "detonated": 1597356065,
+      "injured": 495,
+      "respect": 348735,
+      "faction": 8422,
+      "user": 607891
+    },
+    {
+      "planted": 1594120637,
+      "detonated": 1594126865,
+      "injured": 488,
+      "respect": 475336,
+      "faction": 2013,
+      "user": 1162485
+    },
+    {
+      "planted": 1584517035,
+      "detonated": 1584522075,
+      "injured": 348,
+      "respect": 313621,
+      "faction": 3241,
+      "user": 900534
+    },
+    {
+      "planted": 1580420943,
+      "detonated": 1580425279,
+      "injured": 390,
+      "respect": 384343,
+      "faction": 9041,
+      "user": null
+    },
+    {
+      "planted": 1580137699,
+      "detonated": 1580144478,
+      "injured": 424,
+      "respect": 380840,
+      "faction": 230,
+      "user": 1868687
+    },
+    {
+      "planted": 1576285059,
+      "detonated": 1576288877,
+      "injured": 386,
+      "respect": 305234,
+      "faction": 8706,
+      "user": null
+    },
+    {
+      "planted": 1575079161,
+      "detonated": 1575082877,
+      "injured": 328,
+      "respect": 429771,
+      "faction": 16312,
+      "user": null
+    },
+    {
+      "planted": 1573315689,
+      "detonated": 1573322486,
+      "injured": 386,
+      "respect": 209415,
+      "faction": 15046,
+      "user": null
+    },
+    {
+      "planted": 1570499307,
+      "detonated": 1570503674,
+      "injured": 303,
+      "respect": 346768,
+      "faction": 230,
+      "user": 1732212
+    },
+    {
+      "planted": 1570421705,
+      "detonated": 1570428072,
+      "injured": 278,
+      "respect": 357778,
+      "faction": 230,
+      "user": null
+    },
+    {
+      "planted": 1570369082,
+      "detonated": 1570374078,
+      "injured": 394,
+      "respect": 371741,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1570326794,
+      "detonated": 1570330874,
+      "injured": 295,
+      "respect": 355778,
+      "faction": 11581,
+      "user": null
+    },
+    {
+      "planted": 1570272250,
+      "detonated": 1570276875,
+      "injured": 327,
+      "respect": 395140,
+      "faction": 8336,
+      "user": 888758
+    },
+    {
+      "planted": 1570206311,
+      "detonated": 1570212080,
+      "injured": 359,
+      "respect": 413112,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1570124519,
+      "detonated": 1570129277,
+      "injured": 345,
+      "respect": 428493,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1570015254,
+      "detonated": 1570021277,
+      "injured": 386,
+      "respect": 442599,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1569258842,
+      "detonated": 1569265280,
+      "injured": 384,
+      "respect": 181149,
+      "faction": 11796,
+      "user": 1476472
+    },
+    {
+      "planted": 1569190922,
+      "detonated": 1569196879,
+      "injured": 332,
+      "respect": 270455,
+      "faction": 3241,
+      "user": null
+    },
+    {
+      "planted": 1569171151,
+      "detonated": 1569175281,
+      "injured": 357,
+      "respect": 362907,
+      "faction": 9533,
+      "user": 424017
+    },
+    {
+      "planted": 1568981886,
+      "detonated": 1568988077,
+      "injured": 319,
+      "respect": 450354,
+      "faction": 2736,
+      "user": null
+    },
+    {
+      "planted": 1568952234,
+      "detonated": 1568959273,
+      "injured": 269,
+      "respect": 299956,
+      "faction": 13665,
+      "user": 1825532
+    },
+    {
+      "planted": 1568923942,
+      "detonated": 1568930477,
+      "injured": 311,
+      "respect": 283482,
+      "faction": 3241,
+      "user": null
+    },
+    {
+      "planted": 1568818972,
+      "detonated": 1568826082,
+      "injured": 376,
+      "respect": 279672,
+      "faction": 8989,
+      "user": 1879587
+    },
+    {
+      "planted": 1568799307,
+      "detonated": 1568804475,
+      "injured": 305,
+      "respect": 411671,
+      "faction": 231,
+      "user": 29052
+    },
+    {
+      "planted": 1568777473,
+      "detonated": 1568782874,
+      "injured": 254,
+      "respect": 313928,
+      "faction": 14365,
+      "user": null
+    },
+    {
+      "planted": 1568729991,
+      "detonated": 1568736081,
+      "injured": 362,
+      "respect": 287711,
+      "faction": 8422,
+      "user": null
+    },
+    {
+      "planted": 1568689304,
+      "detonated": 1568696473,
+      "injured": 332,
+      "respect": 394389,
+      "faction": 19,
+      "user": null
+    },
+    {
+      "planted": 1568669110,
+      "detonated": 1568674876,
+      "injured": 341,
+      "respect": 397885,
+      "faction": 230,
+      "user": 1825532
+    },
+    {
+      "planted": 1568642655,
+      "detonated": 1568649680,
+      "injured": 391,
+      "respect": 314055,
+      "faction": 8706,
+      "user": null
+    },
+    {
+      "planted": 1568552473,
+      "detonated": 1568556081,
+      "injured": 353,
+      "respect": 289316,
+      "faction": 3241,
+      "user": 1825532
+    },
+    {
+      "planted": 1568531808,
+      "detonated": 1568538072,
+      "injured": 244,
+      "respect": 374442,
+      "faction": 9533,
+      "user": 1785428
+    },
+    {
+      "planted": 1568505022,
+      "detonated": 1568509276,
+      "injured": 314,
+      "respect": 309427,
+      "faction": 7709,
+      "user": null
+    },
+    {
+      "planted": 1567345153,
+      "detonated": 1567350077,
+      "injured": 377,
+      "respect": 113797,
+      "faction": 20881,
+      "user": 15699
+    },
+    {
+      "planted": 1559505936,
+      "detonated": 1559512863,
+      "injured": 407,
+      "respect": 320047,
+      "faction": 9041,
+      "user": 145507
+    },
+    {
+      "planted": 1553285714,
+      "detonated": 1553292063,
+      "injured": 385,
+      "respect": 314484,
+      "faction": 11747,
+      "user": null
+    },
+    {
+      "planted": 1551116481,
+      "detonated": 1551121263,
+      "injured": 381,
+      "respect": 394019,
+      "faction": 8336,
+      "user": 1182047
+    },
+    {
+      "planted": 1550248437,
+      "detonated": 1550253663,
+      "injured": 374,
+      "respect": 409140,
+      "faction": 8336,
+      "user": null
+    },
+    {
+      "planted": 1547060412,
+      "detonated": 1547064064,
+      "injured": 401,
+      "respect": 286776,
+      "faction": 11581,
+      "user": null
+    }
+  ]
+}

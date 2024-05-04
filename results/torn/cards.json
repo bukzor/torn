@@ -1,0 +1,316 @@
+{
+  "cards": {
+    "1": {
+      "name": "Two of Spades",
+      "short": 2,
+      "rank": 2,
+      "class": "spades-2"
+    },
+    "2": {
+      "name": "Two of Diamonds",
+      "short": 2,
+      "rank": 2,
+      "class": "diamonds-2"
+    },
+    "3": {
+      "name": "Two of Hearts",
+      "short": 2,
+      "rank": 2,
+      "class": "hearts-2"
+    },
+    "4": {
+      "name": "Two of Clubs",
+      "short": 2,
+      "rank": 2,
+      "class": "clubs-2"
+    },
+    "5": {
+      "name": "Three of Spades",
+      "short": 3,
+      "rank": 3,
+      "class": "spades-3"
+    },
+    "6": {
+      "name": "Three of Diamonds",
+      "short": 3,
+      "rank": 3,
+      "class": "diamonds-3"
+    },
+    "7": {
+      "name": "Three of Hearts",
+      "short": 3,
+      "rank": 3,
+      "class": "hearts-3"
+    },
+    "8": {
+      "name": "Three of Clubs",
+      "short": 3,
+      "rank": 3,
+      "class": "clubs-3"
+    },
+    "9": {
+      "name": "Four of Spades",
+      "short": 4,
+      "rank": 4,
+      "class": "spades-4"
+    },
+    "10": {
+      "name": "Four of Diamonds",
+      "short": 4,
+      "rank": 4,
+      "class": "diamonds-4"
+    },
+    "11": {
+      "name": "Four of Hearts",
+      "short": 4,
+      "rank": 4,
+      "class": "hearts-4"
+    },
+    "12": {
+      "name": "Four of Clubs",
+      "short": 4,
+      "rank": 4,
+      "class": "clubs-4"
+    },
+    "13": {
+      "name": "Five of Spades",
+      "short": 5,
+      "rank": 5,
+      "class": "spades-5"
+    },
+    "14": {
+      "name": "Five of Diamonds",
+      "short": 5,
+      "rank": 5,
+      "class": "diamonds-5"
+    },
+    "15": {
+      "name": "Five of Hearts",
+      "short": 5,
+      "rank": 5,
+      "class": "hearts-5"
+    },
+    "16": {
+      "name": "Five of Clubs",
+      "short": 5,
+      "rank": 5,
+      "class": "clubs-5"
+    },
+    "17": {
+      "name": "Six of Spades",
+      "short": 6,
+      "rank": 6,
+      "class": "spades-6"
+    },
+    "18": {
+      "name": "Six of Diamonds",
+      "short": 6,
+      "rank": 6,
+      "class": "diamonds-6"
+    },
+    "19": {
+      "name": "Six of Hearts",
+      "short": 6,
+      "rank": 6,
+      "class": "hearts-6"
+    },
+    "20": {
+      "name": "Six of Clubs",
+      "short": 6,
+      "rank": 6,
+      "class": "clubs-6"
+    },
+    "21": {
+      "name": "Seven of Spades",
+      "short": 7,
+      "rank": 7,
+      "class": "spades-7"
+    },
+    "22": {
+      "name": "Seven of Diamonds",
+      "short": 7,
+      "rank": 7,
+      "class": "diamonds-7"
+    },
+    "23": {
+      "name": "Seven of Hearts",
+      "short": 7,
+      "rank": 7,
+      "class": "hearts-7"
+    },
+    "24": {
+      "name": "Seven of Clubs",
+      "short": 7,
+      "rank": 7,
+      "class": "clubs-7"
+    },
+    "25": {
+      "name": "Eight of Spades",
+      "short": 8,
+      "rank": 8,
+      "class": "spades-8"
+    },
+    "26": {
+      "name": "Eight of Diamonds",
+      "short": 8,
+      "rank": 8,
+      "class": "diamonds-8"
+    },
+    "27": {
+      "name": "Eight of Hearts",
+      "short": 8,
+      "rank": 8,
+      "class": "hearts-8"
+    },
+    "28": {
+      "name": "Eight of Clubs",
+      "short": 8,
+      "rank": 8,
+      "class": "clubs-8"
+    },
+    "29": {
+      "name": "Nine of Spades",
+      "short": 9,
+      "rank": 9,
+      "class": "spades-9"
+    },
+    "30": {
+      "name": "Nine of Diamonds",
+      "short": 9,
+      "rank": 9,
+      "class": "diamonds-9"
+    },
+    "31": {
+      "name": "Nine of Hearts",
+      "short": 9,
+      "rank": 9,
+      "class": "hearts-9"
+    },
+    "32": {
+      "name": "Nine of Clubs",
+      "short": 9,
+      "rank": 9,
+      "class": "clubs-9"
+    },
+    "33": {
+      "name": "Ten of Spades",
+      "short": 10,
+      "rank": 10,
+      "class": "spades-10"
+    },
+    "34": {
+      "name": "Ten of Diamonds",
+      "short": 10,
+      "rank": 10,
+      "class": "diamonds-10"
+    },
+    "35": {
+      "name": "Ten of Hearts",
+      "short": 10,
+      "rank": 10,
+      "class": "hearts-10"
+    },
+    "36": {
+      "name": "Ten of Clubs",
+      "short": 10,
+      "rank": 10,
+      "class": "clubs-10"
+    },
+    "37": {
+      "name": "Jack of Spades",
+      "short": "J",
+      "rank": "J",
+      "class": "spades-J"
+    },
+    "38": {
+      "name": "Jack of Diamonds",
+      "short": "J",
+      "rank": "J",
+      "class": "diamonds-J"
+    },
+    "39": {
+      "name": "Jack of Hearts",
+      "short": "J",
+      "rank": "J",
+      "class": "hearts-J"
+    },
+    "40": {
+      "name": "Jack of Clubs",
+      "short": "J",
+      "rank": "J",
+      "class": "clubs-J"
+    },
+    "41": {
+      "name": "Queen of Spades",
+      "short": "Q",
+      "rank": "Q",
+      "class": "spades-Q"
+    },
+    "42": {
+      "name": "Queen of Diamonds",
+      "short": "Q",
+      "rank": "Q",
+      "class": "diamonds-Q"
+    },
+    "43": {
+      "name": "Queen of Hearts",
+      "short": "Q",
+      "rank": "Q",
+      "class": "hearts-Q"
+    },
+    "44": {
+      "name": "Queen of Clubs",
+      "short": "Q",
+      "rank": "Q",
+      "class": "clubs-Q"
+    },
+    "45": {
+      "name": "King of Spades",
+      "short": "K",
+      "rank": "K",
+      "class": "spades-K"
+    },
+    "46": {
+      "name": "King of Diamonds",
+      "short": "K",
+      "rank": "K",
+      "class": "diamonds-K"
+    },
+    "47": {
+      "name": "King of Hearts",
+      "short": "K",
+      "rank": "K",
+      "class": "hearts-K"
+    },
+    "48": {
+      "name": "King of Clubs",
+      "short": "K",
+      "rank": "K",
+      "class": "clubs-K"
+    },
+    "49": {
+      "name": "Ace of Spades",
+      "short": "A",
+      "rank": "A",
+      "class": "spades-A"
+    },
+    "50": {
+      "name": "Ace of Diamonds",
+      "short": "A",
+      "rank": "A",
+      "class": "diamonds-A"
+    },
+    "51": {
+      "name": "Ace of Hearts",
+      "short": "A",
+      "rank": "A",
+      "class": "hearts-A"
+    },
+    "52": {
+      "name": "Ace of Clubs",
+      "short": "A",
+      "rank": "A",
+      "class": "clubs-A"
+    }
+  }
+}
