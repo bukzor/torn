@@ -1,4 +1,14 @@
 #!/bin/bash
 set -euo pipefail
 
-redo-ifchange user.json
+redo-ifchange \
+  company.json \
+  faction.json \
+  market.json \
+  property.json \
+  torn.json \
+  user.json \
+;
+
+
+# vim:set ft=bash:
